@@ -1,6 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
 <header class="site-header">
 
-  <div class="row" id="header-container">
+  <div class="row animated lightSpeedIn" id="header-container">
     <a class="col-xs-2 col-sm-2 col-md-2 header-link" href="/index.html">Home</a>
     <a class="col-xs-2 col-sm-2 col-md-2 header-link" href="/about">About Me</a>
     <h1 class="col-xs-4 col-sm-4 col-md-4" id="name">Sean Haughey</h1>
@@ -9,3 +16,15 @@
   </div>
 
 </header>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

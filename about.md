@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a former hotelier who is excited to begin my new career in web development. After a highly successful career in hotel management, I was ready for a change. I was always interested in computers, often being the go-to guy for IT issues at my hotels. As someone who enjoys problem solving and has a natural curiosity about how the Web works, web development seemed like a perfect fit for me.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I have a lot of experience as a team leader, but I am looking to start on the ground floor and work my way up, learning 
