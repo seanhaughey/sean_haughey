@@ -24,3 +24,7 @@ permalink: /projects/
 	<span class="screenshot-spacer col-xs-12 col-sm-12 col-md-12"></span>
 </div>
 <a href="http://concert-share.meteor.com/" target="_blank"><img src="/images/concertshare_screenshot.png" class="project-image"></a>
+<div class="row">
+	<span class="screenshot-spacer col-xs-12 col-sm-12 col-md-12"></span>
+</div>
+<a href="http://financial-controller-patrick-25070.bitballoon.com/" target="_blank"><img src="/images/tictactoe_screenshot.png" class="project-image"></a>
