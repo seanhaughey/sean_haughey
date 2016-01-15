@@ -99,6 +99,58 @@ header {
 	width: auto;
 }
 
+.btn-info {
+  color: white;
+  background-color: white;
+  border-color: white;
+}
+.btn-info:focus,
+.btn-info.focus {
+  color: white;
+  background-color: white;
+  border-color: white;
+}
+.btn-info:hover {
+  color: white;
+  background-color: white;
+  border-color: white;
+}
+.btn-info:active,
+.btn-info.active,
+.open > .dropdown-toggle.btn-info {
+  color: white;
+  background-color: white;
+  border-color: white;
+}
+.btn-info:active:hover,
+.btn-info.active:hover,
+.open > .dropdown-toggle.btn-info:hover,
+.btn-info:active:focus,
+.btn-info.active:focus,
+.open > .dropdown-toggle.btn-info:focus,
+.btn-info:active.focus,
+.btn-info.active.focus,
+.open > .dropdown-toggle.btn-info.focus {
+  color: white;
+  background-color: white;
+  border-color: white;
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+  outline: none;
+  outline: 0px auto;
+  outline-offset: 0px;
+}
+
+.modal-footer {
+  text-align: center;
+}
+
 #contact-list {
   text-align: center;
   font-size: 20px;
