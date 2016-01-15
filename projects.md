@@ -28,6 +28,7 @@ ConcertShare was my final project for my WDI class. It is a concert photo sharin
 <div class="row">
 	<span class="text-spacer col-xs-12 col-sm-12 col-md-12"></span>
 </div>
+Scarf was a team project created with three of of my WDI classmates. It is a website for sharing recipes. It was built using Ruby on Rails, BCrypt, PostgreSQL, Bootstrap and AWS.
 <a href="https://github.com/xoBlair/iLuvFood/commits/master?author=seanhaughey" target="_blank"><i class="fa fa-github-square project-icon"></i></a>
 <div class="row">
 	<span class="screenshot-spacer col-xs-12 col-sm-12 col-md-12"></span>
