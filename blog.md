@@ -18,6 +18,6 @@ permalink: /blog/
 		</ul>
 		<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 	</div>
-	<div class="col-xs-2 col-sm-2 col-md-2"></div>
-	<img src="/images/golf_pic.jpg" id="about-me-pic">			
+	<div class="col-xs-2 col-sm-2 col-md-2e"></div>
+	<img src="/images/golf_pic.jpg" class="img-responsive" id="about-me-pic">
 </div>
