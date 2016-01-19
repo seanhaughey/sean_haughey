@@ -52,26 +52,26 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-/*body {
-	margin: 10px;
-}*/
 header {
   margin: 10px;
-/*  background-color: #b2adad;
-*/  margin: 0px; }
+  margin: 0px;
+}
 
 #name {
   font-size: 50px;
   text-align: center;
-  font-family: 'Anton', sans-serif; }
+  font-family: 'Anton', sans-serif;
+}
 
 #header-spacer {
-  height: 20px; }
+  height: 20px;
+}
 
 .header-link {
   font-family: 'Anton', sans-serif;
   margin: 10px 0px 0px 0px;
-  text-align: center; }
+  text-align: center;
+}
 
 #profile-pic {
   border-radius: 100%;
@@ -94,8 +94,7 @@ header {
 
 #about-me-pic {
 	border: 1px solid black;
-/*	border-radius: 25%;
-*/	height: 300px;
+	height: 300px;
 	width: auto;
 }
 
@@ -149,6 +148,10 @@ header {
 
 .modal-footer {
   text-align: center;
+}
+
+.project-icon {
+  font-size: 28px;
 }
 
 #contact-list {
