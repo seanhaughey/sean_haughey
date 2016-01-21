@@ -5,7 +5,7 @@ permalink: /music/
 ---
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!bE1UnKTC!xSAbGFQ2ZYmUn-HQgGd0s-JKCzwxMvWCcYcizzaPWeI" target="_blank">Living On Luck</a>
+		<a href="https://mega.nz/#!bE1UnKTC!xSAbGFQ2ZYmUn-HQgGd0s-JKCzwxMvWCcYcizzaPWeI" target="_blank">Living On Luck (Download)</a>
 	</div>
 	<span class="col-xs-3 col-sm-3 col-md-3"></span>
 	<!-- Trigger the modal with a button -->
@@ -52,11 +52,11 @@ permalink: /music/
 	</div>
 </div>
 <div class="row">
-	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3w5DR2u1P8KklheMKg8QMm" class="playlist" width="200" height="100" frameborder="0" allowtransparency="true"></iframe>
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3w5DR2u1P8KklheMKg8QMm" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!vc0jVaqb!g595jQC095ZxPiS_qmPUjTK2XBNygeGb1RU-Ju5Q6yY" target="_blank">The Pleasures Of The Damned</a>
+		<a href="https://mega.nz/#!vc0jVaqb!g595jQC095ZxPiS_qmPUjTK2XBNygeGb1RU-Ju5Q6yY" target="_blank">The Pleasures Of The Damned (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#tpotd">Track Listing</button>
@@ -102,12 +102,11 @@ permalink: /music/
 	</div>
 </div>
 <div class="row">
-	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1BCxFRypyVK342MLLd7ghB" class="playlist" width="200" height="100" frameborder="0" allowtransparency="true"></iframe>
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1BCxFRypyVK342MLLd7ghB" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
-
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!OZNwxR4C!LNWZlcllzR-AkgehzqyiLJ8SfR5cEIeRI8BXJzTKlAI" target="_blank">Sick Of Myself</a>
+		<a href="https://mega.nz/#!OZNwxR4C!LNWZlcllzR-AkgehzqyiLJ8SfR5cEIeRI8BXJzTKlAI" target="_blank">Sick Of Myself (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#som">Track Listing</button>
@@ -124,7 +123,7 @@ permalink: /music/
 					<ul>01-Sick Of Myself / Matthew Sweet</ul>
 					<ul>02-No Matter What / Badfinger</ul>
 					<ul>03-Your Valentine (Take Me Back In Time) / Bubblegum Lemonade</ul>
-					<ul>04-The Feeling / Diamond</ul>
+					<ul>04-The Feeling / Diamond Youth</ul>
 					<ul>05-I've Got A Feeling / The Beatles</ul>
 					<ul>06-We Come In The Sunshine / The Dirtbombs</ul>
 					<ul>07-Ventura Highway / America</ul>
@@ -153,8 +152,11 @@ permalink: /music/
 	</div>	
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A5nNpf2q4OP1osvWrBhbJmL" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!KR9jSRKQ!3_6gHiJ6MO9aqmpcBG_-IWVgLWthmIwHp3jI3UkarPA" target="_blank">The Dangerous Summer</a>
+		<a href="https://mega.nz/#!KR9jSRKQ!3_6gHiJ6MO9aqmpcBG_-IWVgLWthmIwHp3jI3UkarPA" target="_blank">The Dangerous Summer (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#tds">Track Listing</button>
@@ -200,8 +202,11 @@ permalink: /music/
 	</div>		
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A7wb9ncJ43bI0oEvTEAg6rw" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!vNsGRYqR!Yjg_hPHTF3Q68w6luXQER8TbBqM2EJdKtMxcijL2usA" target="_blank">Horses Don't Bet On People</a>
+		<a href="https://mega.nz/#!vNsGRYqR!Yjg_hPHTF3Q68w6luXQER8TbBqM2EJdKtMxcijL2usA" target="_blank">Horses Don't Bet On People (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#hdbop">Track Listing</button>
@@ -215,7 +220,7 @@ permalink: /music/
 					<h4 class="modal-title">Horses Don't Bet On People</h4>
 				</div>
 				<div class="modal-body">
-					<ul>01-Do It Goes / Nick Lowe</ul>
+					<ul>01-So It Goes / Nick Lowe</ul>
 					<ul>02-Merry Go Round / The Replacements</ul>
 					<ul>03-Bittersweet / Hoodoo Gurus</ul>
 					<ul>04-Don't Change / INXS</ul>
@@ -245,8 +250,11 @@ permalink: /music/
 	</div>		
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3tbpXNdXHXydNBDxQkDeWn" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!uYkBXZBC!JBQootRfFJUelo4fPslPV2yCbDS4s5SSk3uanB2QXPg" target="_blank">Slouching Toward Nirvana</a>
+		<a href="https://mega.nz/#!uYkBXZBC!JBQootRfFJUelo4fPslPV2yCbDS4s5SSk3uanB2QXPg" target="_blank">Slouching Toward Nirvana (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#stn">Track Listing</button>
@@ -290,8 +298,11 @@ permalink: /music/
 	</div>		
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0HfCDxCGULZy098IPUKpXX" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!qIlllBiK!MLji9e4r7v4TC54-0Z3CKBql4TexFP9H8_UWqCyOxsQ" target="_blank">Sifting Through The Madness</a>
+		<a href="https://mega.nz/#!qIlllBiK!MLji9e4r7v4TC54-0Z3CKBql4TexFP9H8_UWqCyOxsQ" target="_blank">Sifting Through The Madness (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#sttm">Track Listing</button>
@@ -322,7 +333,7 @@ permalink: /music/
 					<ul>15-I Miss Your Bones / Hospitality</ul>
 					<ul>16-In The Wake Of You / Dum Dum Girls</ul>
 					<ul>17-Alex And The Omegas / Guided By Voices</ul>
-					<ul>18-Shouting Match / New Mendicants</ul>
+					<ul>18-Shouting Match / The New Mendicants</ul>
 					<ul>19-You're Quiet / Brendan Benson</ul>
 					<ul>20-Saddle Shoes / The Hold Steady</ul>
 					<ul>21-Your Deep Rest / The Hotelier</ul>
@@ -336,8 +347,11 @@ permalink: /music/
 	</div>			
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3DeKeKaFjYOuXnoKiQjcMC" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!2UsHDDAR!TWPuYAyUGErpv2kSEkSOjU2oiDhDgdSzF-wvF5Po9V4" target="_blank">Bright Future In Sales</a>
+		<a href="https://mega.nz/#!2UsHDDAR!TWPuYAyUGErpv2kSEkSOjU2oiDhDgdSzF-wvF5Po9V4" target="_blank">Bright Future In Sales (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#bfis">Track Listing</button>
@@ -353,7 +367,7 @@ permalink: /music/
 				<div class="modal-body">
 					<ul>01-Bright Future In Sales / Fountains Of Wayne</ul>
 					<ul>02-Summer Heat / The Whigs</ul>
-					<ul>03-Thank God For Sinner / Ty Segall</ul>
+					<ul>03-Thank God For Sinners / Ty Segall</ul>
 					<ul>04-Get It / Buffalo Killers</ul>
 					<ul>05-Fantastic Explosion Of Time / Pond</ul>
 					<ul>06-How I Roll / Charlie Mars</ul>
@@ -371,7 +385,7 @@ permalink: /music/
 					<ul>18-Second Look / The Soft Pack</ul>
 					<ul>19-Tiger Blood / The Vaccines</ul>
 					<ul>20-Stoked And Broke / Fidlar</ul>
-					<ul>21-It's Been A While / The White Wires</ul>
+					<ul>21-It's Been Awhile / The White Wires</ul>
 					<ul>22-Is It Honest? / Woods</ul>
 				</div>
 				<div class="modal-footer">
@@ -380,6 +394,9 @@ permalink: /music/
 			</div>
 		</div>
 	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1dQ1gi5OjGalspUGi9RgRQ" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -394,7 +411,7 @@ permalink: /music/
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Looking For A Sign</h4>
+					<h4 class="modal-title">Looking For A Sign (Download)</h4>
 				</div>
 				<div class="modal-body">
 					<ul>01-Crawl / Kings Of Leon</ul>
@@ -427,7 +444,9 @@ permalink: /music/
 			</div>
 		</div>
 	</div>		
-
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6zvohboGQxd6O6dMGiUXwn" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
