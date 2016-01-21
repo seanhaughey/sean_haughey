@@ -52,6 +52,9 @@ permalink: /music/
 	</div>
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3w5DR2u1P8KklheMKg8QMm" class="playlist" width="200" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<a href="https://mega.nz/#!vc0jVaqb!g595jQC095ZxPiS_qmPUjTK2XBNygeGb1RU-Ju5Q6yY" target="_blank">The Pleasures Of The Damned</a>
 	</div>
@@ -67,7 +70,7 @@ permalink: /music/
 					<h4 class="modal-title">The Pleasures Of The Damned</h4>
 				</div>
 				<div class="modal-body">
-					<ul>01-Rock Star / A Great Big World</ul>
+					<ul>01-Rockstar / A Great Big World</ul>
 					<ul>02-King Of The Beach / Wavves</ul>
 					<ul>03-Constellation Freedom / Capsula</ul>
 					<ul>04-Dirty Work / Steely Dan</ul>
@@ -87,7 +90,7 @@ permalink: /music/
 					<ul>18-Frosted Tips / Califone</ul>
 					<ul>19-Bad Reputation / Bass Drum Of Death</ul>
 					<ul>20-Gimme Some Annihilation / Crocodiles</ul>
-					<ul>21-Under The Bridge / Wheeler Brothers</ul>
+					<ul>21-Under A Bridge / Wheeler Brothers</ul>
 					<ul>22-Dream Captain / Deerhunter</ul>
 					<ul>23-Laurel / Royal Bangs</ul>
 				</div>
@@ -98,6 +101,10 @@ permalink: /music/
 		</div>
 	</div>
 </div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1BCxFRypyVK342MLLd7ghB" class="playlist" width="200" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<a href="https://mega.nz/#!OZNwxR4C!LNWZlcllzR-AkgehzqyiLJ8SfR5cEIeRI8BXJzTKlAI" target="_blank">Sick Of Myself</a>
