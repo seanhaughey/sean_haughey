@@ -450,7 +450,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!aJU0harL!-arqxyvYbcqoGJJZ0V8tnLPilymHwJ3vSW-N5l5Cu7A" target="_blank">High Horse</a>
+		<a href="https://mega.nz/#!aJU0harL!-arqxyvYbcqoGJJZ0V8tnLPilymHwJ3vSW-N5l5Cu7A" target="_blank">High Horse (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#hh">Track Listing</button>
@@ -492,6 +492,9 @@ permalink: /music/
 			</div>
 		</div>
 	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2JT1lkjzdk7UvhE9SBMBKy" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
