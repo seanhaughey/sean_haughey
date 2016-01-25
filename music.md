@@ -498,7 +498,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!fA91DYYT!yRzSLwprfa71DEXmVKLcX-4hdI-iABJWzQrOg9qPd5U" target="_blank">77 Minutes In Hell</a>
+		<a href="https://mega.nz/#!fA91DYYT!yRzSLwprfa71DEXmVKLcX-4hdI-iABJWzQrOg9qPd5U" target="_blank">77 Minutes In Hell (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#7mih">Track Listing</button>
@@ -543,8 +543,11 @@ permalink: /music/
 	</div>			
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A4VcdpyjCAUik3w3QfhdgbN" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!bYcR3Q6Q!PCpmipTdYtlcJ62yyn63M2JqsrDqlcg70ALGQxNMDpU" target="_blank">Tales Of Ordinary Madness</a>
+		<a href="https://mega.nz/#!bYcR3Q6Q!PCpmipTdYtlcJ62yyn63M2JqsrDqlcg70ALGQxNMDpU" target="_blank">Tales Of Ordinary Madness (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#toom">Track Listing</button>
@@ -576,7 +579,7 @@ permalink: /music/
 					<ul>16-Let Me Be / Waines</ul>
 					<ul>17-Original Is Dead / Capsula</ul>
 					<ul>18-First Drag Of The Day / Bob Mould</ul>
-					<ul>19-Superserum No. 4 / The Grass</ul>
+					<ul>19-Superserum #4 / The Grass</ul>
 					<ul>20-Rock 'n Roll Rocket / The Micragirls</ul>
 					<ul>21-Potion Approaching / Arctic Monkeys</ul>
 					<ul>22-Running On Empty / The Rumble Strips</ul>
@@ -590,8 +593,11 @@ permalink: /music/
 	</div>			
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6v8iNAP9b8AMQNw5K1NUX6" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!yR8G2ZQY!NYHTceMtXI22XeCuS3BMjR1cxaz53KVPVpc3Z9VJySE" target="_blank">Ham On Rye</a>
+		<a href="https://mega.nz/#!yR8G2ZQY!NYHTceMtXI22XeCuS3BMjR1cxaz53KVPVpc3Z9VJySE" target="_blank">Ham On Rye (Download)</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#hor">Track Listing</button>
@@ -636,6 +642,9 @@ permalink: /music/
 	</div>			
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A16AZeKSJMNlha7prQv9Al8" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<a href="https://mega.nz/#!XcdSiRRL!Tql2E8X55UcZw97Z1o8m__woUIeL6WlHCMtqPiquImU" target="_blank">Shakespeare Never Did This</a>
 	</div>
@@ -666,7 +675,7 @@ permalink: /music/
 					<ul>13-Crimson And Clover / Joan Jett & The Blackhearts</ul>
 					<ul>14-Mouthful Of Cavities / Blind Melon</ul>
 					<ul>15-Come And Get It / Badfinger</ul>
-					<ul>16-I'm Free / The Soupdragons</ul>
+					<ul>16-I'm Free / The Soup Dragons</ul>
 					<ul>17-Teen Angst (What The World Needs Now) / Cracker</ul>
 					<ul>18-Bittersweet Symphony / The Verve</ul>
 					<ul>19-You Make Me Feel / Jeremy Toback</ul>
@@ -678,6 +687,9 @@ permalink: /music/
 			</div>
 		</div>
 	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0yDMQmHgm5fViR1WsmwKZ3" class ="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -706,7 +718,7 @@ permalink: /music/
 					<ul>09-Happy Alone / Kings Of Leon</ul>
 					<ul>10-Panic In Detroit / David Bowie</ul>
 					<ul>11-I Will Dare / The Replacements</ul>
-					<ul>12-Lifetime / Better Than Ezra</ul>
+					<ul>12-A Lifetime / Better Than Ezra</ul>
 					<ul>13-Crystal Village / Pete Yorn</ul>
 					<ul>14-Spit On A Stranger / Pavement</ul>
 					<ul>15-Do Ya / Electric Light Orchestra</ul>
@@ -723,6 +735,9 @@ permalink: /music/
 			</div>
 		</div>
 	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A7v3062IlOxoZSSGo7WZWBs" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -769,6 +784,9 @@ permalink: /music/
 	</div>			
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A69kvi980mF7HDjshRDapHa" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<a href="https://mega.nz/#!vVkzFAzZ!2NG0wY4Z2gcrI1JQp5KDDfszQ7pN4WwbvOI1Caa7s08" target="_blank">Pretend That This Is Fiction</a>
 	</div>
@@ -798,7 +816,7 @@ permalink: /music/
 					<ul>12-Cinnamon Girl / Matthew Sweet & Susana Hoffs</ul>
 					<ul>13-Pop Song 2006 / Razorlight</ul>
 					<ul>14-Holiday From Real / Jack's Mannequin</ul>
-					<ul>15-Emblem / Matt Pond PA</ul>
+					<ul>15-Emblems / Matt Pond PA</ul>
 					<ul>16-Hungry Ghost / Echo Helstrom</ul>
 					<ul>17-Overweight / Blue October</ul>
 					<ul>18-Pittsburgh / The Lemonheads</ul>
@@ -815,8 +833,11 @@ permalink: /music/
 	</div>			
 </div>
 <div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A4IN4aJfGSaJVlGohHau1a5" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!vA1kBbDT!I8iSkTWrSG-nOwzZTc-rB0XT5lzfGaozc24lKqW83Ps" target="_blank">24 Hr Party People</a>
+		<a href="https://mega.nz/#!vA1kBbDT!I8iSkTWrSG-nOwzZTc-rB0XT5lzfGaozc24lKqW83Ps" target="_blank">24 Hour Party People</a>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#2hpp">Track Listing</button>
@@ -827,7 +848,7 @@ permalink: /music/
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">24 Hr Party People</h4>
+					<h4 class="modal-title">24 Hour Party People</h4>
 				</div>
 				<div class="modal-body">
 					<ul>01-Crazy Love / Daniel Johnston</ul>
@@ -836,11 +857,11 @@ permalink: /music/
 					<ul>04-You Better Get In Touch With The Devil / Black Box Revelation</ul>
 					<ul>05-Hypno Switch / The Black Rabbits</ul>
 					<ul>06-Tellin' The Mind / Delta Spirit</ul>
-					<ul>07-24 Hr Party People / Happy Mondays</ul>
+					<ul>07-24 Hour Party People / Happy Mondays</ul>
 					<ul>08-Guggenheim / The Ting Tings</ul>
 					<ul>09-Riot In My House / Mark Lanegan Band</ul>
 					<ul>10-Gold On The Ceiling / The Black Keys</ul>
-					<ul>11-Destroyer / Dogs</ul>
+					<ul>11-Destroyer / The Dogs</ul>
 					<ul>12-Are You Ready? / Liam Lynch</ul>
 					<ul>13-On Your Own / The Apples In Stereo</ul>
 					<ul>14-Dust Me Off / Tilly And The Wall</ul>
@@ -862,6 +883,9 @@ permalink: /music/
 			</div>
 		</div>
 	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A7BWPeTQahSGrE4Tw21J2PZ" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -898,9 +922,9 @@ permalink: /music/
 					<ul>17-Where Nobody Knows / Kings Of Leon</ul>
 					<ul>18-Where Have All The Rude Boys Gone? / Ted Leo & The Pharmacists</ul>
 					<ul>19-Sun Is Shining / The Dirtbombs</ul>
-					<ul>20-I Want You Know / Velvet Crush</ul>
+					<ul>20-Want You Now / Velvet Crush</ul>
 					<ul>21-Turn On The Water / The Afghan Whigs</ul>
-					<ul>22-The Closets Of Henry / Guided By Voices</ul>
+					<ul>22-Closets Of Henry / Guided By Voices</ul>
 					<ul>23-Mother One Track Mind / The Soundtrack Of Our Lives</ul>
 				</div>
 				<div class="modal-footer">
@@ -909,6 +933,9 @@ permalink: /music/
 			</div>
 		</div>
 	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6X8bR6eDWOdxHRBxLFHiVq" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -936,7 +963,7 @@ permalink: /music/
 					<ul>08-Kick In The Teeth / Supergrass</ul>
 					<ul>09-Margarita / The Spin Doctors</ul>
 					<ul>10-Maureen / Fountains Of Wayne</ul>
-					<ul>11-Let Me Take You Far / Flaming Sideburns</ul>
+					<ul>11-Let Me Take You Far / The Flaming Sideburns</ul>
 					<ul>12-I Got Nothin' / James Williamson</ul>
 					<ul>13-Cold Hands (Warm Heart) / Brendan Benson</ul>
 					<ul>14-Sing For Joy / Frank Black</ul>
@@ -944,7 +971,7 @@ permalink: /music/
 					<ul>16-Lock Up Your Daughters / End Of Fashion</ul>
 					<ul>17-Snow / Pernice Brothers</ul>
 					<ul>18-Happy / The Get Quick</ul>
-					<ul>19-Brand New Games / The Dirtbombs</ul>
+					<ul>19-Brand New Game / The Dirtbombs</ul>
 					<ul>20-Retreat / The Rakes</ul>
 					<ul>21-Lime Green Camaro / John Critchley</ul>
 					<ul>22-Doesn't Remind Me / Audioslave</ul>
@@ -955,6 +982,9 @@ permalink: /music/
 			</div>
 		</div>
 	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1X9VIE5ubGsYvvfC6RDb0p" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 
 
