@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Bank Robber"
-date:   2016-01-20 14:36:49 -0600
+date:   2016-02-15 14:36:49 -0600
 categories: jekyll update
 ---
 When she returned to the hotel, all hell broke loose! Here is actual footage of what went down:
