@@ -2,7 +2,6 @@
 layout: default
 permalink: /projects/
 ---
-
 <!-- Trigger the modal with a button -->
 <button type="button" class="btn btn-info btn-lg modal-button" data-toggle="modal" data-target="#concertshare-modal"><img src="/images/concertshare_screenshot.png" class="project-image img-responsive"></button>
 <!-- Modal -->
