@@ -61,7 +61,9 @@ permalink: /projects/
  <div class="row">
 	<span class="text-spacer col-xs-12 col-sm-12 col-md-12"></span>
 </div>
+<section class="project-desc">
 ConcertShare was my final project for the General Assembly Web Development Immersive course. It is a concert photo sharing app I built using Meteor. We did not learn Meteor during the course. I wanted to challenge myself by learning a new technology for the final project. 
+</section>
 <div class="row">
 	<span class="screenshot-spacer col-xs-12 col-sm-12 col-md-12"></span>
 </div>
@@ -124,7 +126,9 @@ ConcertShare was my final project for the General Assembly Web Development Immer
 <div class="row">
 	<span class="text-spacer col-xs-12 col-sm-12 col-md-12"></span>
 </div>
+<section class="project-desc">
 Scarf was a team project created with three of of my WDI classmates. It is a website for sharing recipes. It was built using Ruby on Rails, BCrypt, PostgreSQL, Bootstrap and AWS.
+</section>
 <div class="row">
 	<span class="screenshot-spacer col-xs-12 col-sm-12 col-md-12"></span>
 </div>
@@ -187,7 +191,9 @@ Scarf was a team project created with three of of my WDI classmates. It is a web
 <div class="row">
 	<span class="text-spacer col-xs-12 col-sm-12 col-md-12"></span>
 </div>
+<section class="project-desc">
 GuestAdvisor was a team project created with three of my WDI classmates. It is a website for hotel associates to rate guests. It was built using NodeJS, ExpressJS and MongoDB. It also uses AJAX to show the most recent review submitted.
+</section>
 <div class="row">
 	<span class="screenshot-spacer col-xs-12 col-sm-12 col-md-12"></span>
 </div>
@@ -250,4 +256,6 @@ GuestAdvisor was a team project created with three of my WDI classmates. It is a
 <div class="row">
 	<span class="text-spacer col-xs-12 col-sm-12 col-md-12"></span>
 </div>
+<section class="project-desc">
 This was my first project for the WDI class created after one week of JavaScript training. It is a simple tic-tac-toe game built with JavaScript, jQuery, HTML, CSS and Bootstrap. I chose a War Games theme to keep it fun!
+</section>
