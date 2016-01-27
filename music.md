@@ -5,11 +5,11 @@ permalink: /music/
 ---
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!bE1UnKTC!xSAbGFQ2ZYmUn-HQgGd0s-JKCzwxMvWCcYcizzaPWeI" target="_blank">Living On Luck (Download)</a>
+		<p><b>Living On Luck </b><small>2015</small><br><a href="https://mega.nz/#!bE1UnKTC!xSAbGFQ2ZYmUn-HQgGd0s-JKCzwxMvWCcYcizzaPWeI" target="_blank"><i>Download</i></a></p>
 	</div>
 	<span class="col-xs-3 col-sm-3 col-md-3"></span>
 	<!-- Trigger the modal with a button -->
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#lol">Track Listing</button>
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#lol">Track Listing</button>
 	<!-- Modal -->
 	<div id="lol" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -56,10 +56,11 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!vc0jVaqb!g595jQC095ZxPiS_qmPUjTK2XBNygeGb1RU-Ju5Q6yY" target="_blank">The Pleasures Of The Damned (Download)</a>
+		<p><b>The Pleasures Of The Damned </b><small>2014</small><br><a href="https://mega.nz/#!vc0jVaqb!g595jQC095ZxPiS_qmPUjTK2XBNygeGb1RU-Ju5Q6yY" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#tpotd">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#tpotd">Track Listing</button>
 	<!-- Modal -->
 	<div id="tpotd" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -106,10 +107,11 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!OZNwxR4C!LNWZlcllzR-AkgehzqyiLJ8SfR5cEIeRI8BXJzTKlAI" target="_blank">Sick Of Myself (Download)</a>
+		<p><b>Sick Of Myself </b><small>2014</small><br><a href="https://mega.nz/#!OZNwxR4C!LNWZlcllzR-AkgehzqyiLJ8SfR5cEIeRI8BXJzTKlAI" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#som">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#som">Track Listing</button>
 	<!-- Modal -->
 	<div id="som" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -156,10 +158,11 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!KR9jSRKQ!3_6gHiJ6MO9aqmpcBG_-IWVgLWthmIwHp3jI3UkarPA" target="_blank">The Dangerous Summer (Download)</a>
+		<p><b>The Dangerous Summer </b><small>2014</small><br><a href="https://mega.nz/#!KR9jSRKQ!3_6gHiJ6MO9aqmpcBG_-IWVgLWthmIwHp3jI3UkarPA" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#tds">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#tds">Track Listing</button>
 	<!-- Modal -->
 	<div id="tds" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -206,10 +209,11 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!vNsGRYqR!Yjg_hPHTF3Q68w6luXQER8TbBqM2EJdKtMxcijL2usA" target="_blank">Horses Don't Bet On People (Download)</a>
+		<p><b>Horses Don't Bet On People </b><small>2014</small><br><a href="https://mega.nz/#!vNsGRYqR!Yjg_hPHTF3Q68w6luXQER8TbBqM2EJdKtMxcijL2usA" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#hdbop">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#hdbop">Track Listing</button>
 	<!-- Modal -->
 	<div id="hdbop" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -254,10 +258,11 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!uYkBXZBC!JBQootRfFJUelo4fPslPV2yCbDS4s5SSk3uanB2QXPg" target="_blank">Slouching Toward Nirvana (Download)</a>
+		<p><b>Slouching Toward Nirvana </b><small>2014</small><br><a href="https://mega.nz/#!uYkBXZBC!JBQootRfFJUelo4fPslPV2yCbDS4s5SSk3uanB2QXPg" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#stn">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#stn">Track Listing</button>
 	<!-- Modal -->
 	<div id="stn" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -302,10 +307,11 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!qIlllBiK!MLji9e4r7v4TC54-0Z3CKBql4TexFP9H8_UWqCyOxsQ" target="_blank">Sifting Through The Madness (Download)</a>
+		<p><b>Sifting Through The Madness </b><small>2014</small><br><a href="https://mega.nz/#!qIlllBiK!MLji9e4r7v4TC54-0Z3CKBql4TexFP9H8_UWqCyOxsQ" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#sttm">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#sttm">Track Listing</button>
 	<!-- Modal -->
 	<div id="sttm" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -351,10 +357,11 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!2UsHDDAR!TWPuYAyUGErpv2kSEkSOjU2oiDhDgdSzF-wvF5Po9V4" target="_blank">Bright Future In Sales (Download)</a>
+		<p><b>Bright Future In Sales </b><small>2013</small><br><a href="https://mega.nz/#!2UsHDDAR!TWPuYAyUGErpv2kSEkSOjU2oiDhDgdSzF-wvF5Po9V4" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#bfis">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#bfis">Track Listing</button>
 	<!-- Modal -->
 	<div id="bfis" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -400,10 +407,11 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!bA8UjbDI!UC-9tiraU2A5BJgmAtoyhM2Y07fEglm14aL1wYvx35A" target="_blank">Looking For A Sign (Download)</a>
+		<p><b>Looking For A Sign </b><small>2012</small><br><a href="https://mega.nz/#!bA8UjbDI!UC-9tiraU2A5BJgmAtoyhM2Y07fEglm14aL1wYvx35A" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#lfas">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#lfas">Track Listing</button>
 	<!-- Modal -->
 	<div id="lfas" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -450,10 +458,11 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!aJU0harL!-arqxyvYbcqoGJJZ0V8tnLPilymHwJ3vSW-N5l5Cu7A" target="_blank">High Horse (Download)</a>
+		<p><b>High Horse </b><small>2012</small><br><a href="https://mega.nz/#!aJU0harL!-arqxyvYbcqoGJJZ0V8tnLPilymHwJ3vSW-N5l5Cu7A" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#hh">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#hh">Track Listing</button>
 	<!-- Modal -->
 	<div id="hh" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -497,14 +506,15 @@ permalink: /music/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2JT1lkjzdk7UvhE9SBMBKy" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
-	<span class="col-xs-4 col-sm-4 col-md-4"></span>
-	<ul class="pagination">
-		<li class="active"><a href="#">1</a></li>
-		<li><a href="/music2">2</a></li>
-		<li><a href="/music3">3</a></li>
-<!-- 		<li><a href="#">4</a></li>
-		<li><a href="#">5</a></li>
- -->	</ul>
+	<center>
+		<ul class="pagination">
+			<li class="active"><a href="#">1</a></li>
+			<li><a href="/music2">2</a></li>
+			<li><a href="/music3">3</a></li>
+	<!-- 		<li><a href="#">4</a></li>
+			<li><a href="#">5</a></li>
+	 -->	</ul>
+	 </center>
 </div>
 
 

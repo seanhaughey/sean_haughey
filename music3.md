@@ -5,39 +5,43 @@ permalink: /music3/
 ---
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!CBUhARrR!rcbGW_ZkJ5H8aUedeOHlwvhY882rt5RVI2dNDbSQQJE" target="_blank">Greetings From America's Wang (Download)</a>
+		<p><b>Lock Up Your Daughters </b><small>2005</small><br><a href="https://mega.nz/#!7MkWmaYZ!dlGtL3I3irQ3Ln9Pa7eEfql_ez2ed2ufRzUpwrw_wCo" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#gfaw">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#luyd">Track Listing</button>
 	<!-- Modal -->
-	<div id="gfaw" class="modal fade" role="dialog">
+	<div id="luyd" class="modal fade" role="dialog">
 		<div class="modal-dialog">
 	<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Greetings From America's Wang</h4>
+					<h4 class="modal-title">Lock Up Your Daughters</h4>
 				</div>
 				<div class="modal-body">
-					<ul>01-The Happy Song / The Aliens</ul>
-					<ul>02-Flagpole Sitta / Harvey Danger</ul>
-					<ul>03-Dracula From Houston / Butthole Surfers</ul>
-					<ul>04-Energy / The Apples In Stereo</ul>
-					<ul>05-Valerie Loves Me / Material Issue</ul>
-					<ul>06-The W.A.N.D. / The Flaming Lips</ul>
-					<ul>07-Steal My Sunshine / Len</ul>
-					<ul>08-'92 Subaru / Fountains Of Wayne</ul>
-					<ul>09-Inside Out / Eve 6</ul>
-					<ul>10-Let The Day Begin / The Call</ul>
-					<ul>11-Fans / Kings Of Leon</ul>
-					<ul>12-Good Time / Leroy</ul>
-					<ul>13-Where You Get Love / Matthew Sweet</ul>
-					<ul>14-Wings / Live</ul>
-					<ul>15-Halloweenhead / Ryan Adams</ul>
-					<ul>16-Love Spreads / The Stone Roses</ul>
-					<ul>17-Baby Fratelli / The Fratellis</ul>
-					<ul>18-There's No Other Way / Blur</ul>
-					<ul>19-99% / The Mooney Suzuki</ul>
+					<ul>01-Lazy Sundy / Andy Samberg & Chris Parnell</ul>
+					<ul>02-The Denial Twist / The White Stripes</ul>
+					<ul>03-10 A.M. Automatic / The Black Keys</ul>
+					<ul>04-Smoke It / The Dandy Warhols</ul>
+					<ul>05-Shot Down / Nine Black Alps</ul>
+					<ul>06-Lazer Beam / Super Furry Animals</ul>
+					<ul>07-Farewell Ride / Beck</ul>
+					<ul>08-Kick In The Teeth / Supergrass</ul>
+					<ul>09-Margarita / The Spin Doctors</ul>
+					<ul>10-Maureen / Fountains Of Wayne</ul>
+					<ul>11-Let Me Take You Far / The Flaming Sideburns</ul>
+					<ul>12-I Got Nothin' / James Williamson</ul>
+					<ul>13-Cold Hands (Warm Heart) / Brendan Benson</ul>
+					<ul>14-Sing For Joy / Frank Black</ul>
+					<ul>15-Legs Of Bees / Fruit Bats</ul>
+					<ul>16-Lock Up Your Daughters / End Of Fashion</ul>
+					<ul>17-Snow / Pernice Brothers</ul>
+					<ul>18-Happy / The Get Quick</ul>
+					<ul>19-Brand New Game / The Dirtbombs</ul>
+					<ul>20-Retreat / The Rakes</ul>
+					<ul>21-Lime Green Camaro / John Critchley</ul>
+					<ul>22-Doesn't Remind Me / Audioslave</ul>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -47,45 +51,48 @@ permalink: /music3/
 	</div>			
 </div>
 <div class="row">
-	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0a7GVbF43yV72vNQWjdoos" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1X9VIE5ubGsYvvfC6RDb0p" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!bEc2FAQZ!T89agZQXifTGZCBDcVakzaAMG3RKKdNWkntLk1cy8Dw" target="_blank">Can You See Russia From Your House? (Download)</a>
+		<p><b>Blue State Blues </b><small>2004</small><br><a href="https://mega.nz/#!KFkn1BhQ!y_ay1aGHuKHhH9-FAkcV14ag6Ge9JmjZF8KXdAq9tYE" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#cysrfyh">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#bsb">Track Listing</button>
 	<!-- Modal -->
-	<div id="cysrfyh" class="modal fade" role="dialog">
+	<div id="bsb" class="modal fade" role="dialog">
 		<div class="modal-dialog">
 	<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Can You See Russia From Your House?</h4>
+					<h4 class="modal-title">Blue State Blues</h4>
 				</div>
 				<div class="modal-body">
-					<ul>01-Constructive Summer / The Hold Steady</ul>
-					<ul>02-Bag It Up / Oasis</ul>
-					<ul>03-BMW Man / Local H</ul>
-					<ul>04-How Now / Get Set Go</ul>
-					<ul>05-CYT / TAB The Band</ul>
-					<ul>06-Shelter / The Dead Trees</ul>
-					<ul>07-Old Enough / The Raconteurs</ul>
-					<ul>08-Butterfly / Supergrass</ul>
-					<ul>09-For My Friends / Blind Melon</ul>
-					<ul>10-Soft And Sweet / G. Love & Special Sauce</ul>
-					<ul>11-27 Jennifers / Mike Doughty</ul>
-					<ul>12-One Big Party / The BellRays</ul>
-					<ul>13-Living Well Is The Best Revenge / R.E.M.</ul>
-					<ul>14-Bag Of Glue / Throw Rag</ul>
-					<ul>15-Geronimo / Phantom Planet</ul>
-					<ul>16-Idle Hands / The Gutter Twins</ul>
-					<ul>17-Right Hand On My Heart / The Whigs</ul>
-					<ul>18-Let's Love / Matthew Sweet</ul>
-					<ul>19-Faded Black / The Lords Of Altamont</ul>
-					<ul>20-Notion / Kings Of Leon</ul>
-					<ul>21-Everybody Get Dangerous / Weezer</ul>
+					<ul>01-Alive & Amplified / The Mooney Suzuki</ul>
+					<ul>02-Ever Fallen In Love / Pete Yorn</ul>
+					<ul>03-Ann Disaster / Ben Kweller</ul>
+					<ul>04-Ghost / Neutral Milk Hotel</ul>
+					<ul>05-The Whistling Song / Meat Puppets</ul>
+					<ul>06-The Sun Surrounds Me / Beachwood Sparks</ul>
+					<ul>07-The Dawn / The Tyde</ul>
+					<ul>08-One Horse Town / The Thrills</ul>
+					<ul>09-Move On / Mike Doughty</ul>
+					<ul>10-Good Guys And Bad Guys / Camper Van Beethoven</ul>
+					<ul>11-The Guitar Man / Cake</ul>
+					<ul>12-Denise / Fountains Of Wayne</ul>
+					<ul>13-Fall Inn / The Ponys</ul>
+					<ul>14-Necessary Separation / The Gris Gris</ul>
+					<ul>15-Cage That Tiger / Soledad Brothers</ul>
+					<ul>16-You Losin' Out / Two Gallants</ul>
+					<ul>17-Where Nobody Knows / Kings Of Leon</ul>
+					<ul>18-Where Have All The Rude Boys Gone? / Ted Leo & The Pharmacists</ul>
+					<ul>19-Sun Is Shining / The Dirtbombs</ul>
+					<ul>20-Want You Now / Velvet Crush</ul>
+					<ul>21-Turn On The Water / The Afghan Whigs</ul>
+					<ul>22-Closets Of Henry / Guided By Voices</ul>
+					<ul>23-Mother One Track Mind / The Soundtrack Of Our Lives</ul>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -95,59 +102,15 @@ permalink: /music3/
 	</div>			
 </div>
 <div class="row">
-	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2rfxXgRM8OlVkITnWTlnsT" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6X8bR6eDWOdxHRBxLFHiVq" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!WMMSVJJK!YbwxlkytSdzCBxwsBloqXjOnS2vYkcobW_E3jlocQnc" target="_blank">Savage Parade (Download)</a>
+		<p><b>Earthquake Heart </b><small>2004</small><br><a href="https://mega.nz/#!mdckUSCb!UfDdVXeRngaNpb7fiYQYExdqoCXO6QG0HvDV0a4e_04" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#sp">Track Listing</button>
-	<!-- Modal -->
-	<div id="sp" class="modal fade" role="dialog">
-		<div class="modal-dialog">
-	<!-- Modal content-->
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Savage Parade</h4>
-				</div>
-				<div class="modal-body">
-					<ul>01-Battle Without Honour Or Humanity / Tomoyasu Hotei</ul>
-					<ul>02-Walk Idiot Walk / The Hives</ul>
-					<ul>03-People Who Died / Jim Carroll Band</ul>
-					<ul>04-Raw Power / Iggy & The Stooges</ul>
-					<ul>05-Decatur St. / The Twilight Singers</ul>
-					<ul>06-So Alive / Ryan Adams</ul>
-					<ul>07-She Don't Use Jelly / The Flaming Lips</ul>
-					<ul>08-Here Comes Your Man / Pixies</ul>
-					<ul>09-Nothing To You / Two Gallants</ul>
-					<ul>10-Portland Oregon / Loretta Lynn</ul>
-					<ul>11-Gin And Juice / The Gourds</ul>
-					<ul>12-Evangeline / Matthew Sweet</ul>
-					<ul>13-Cinnamon / The Long Winters</ul>
-					<ul>14-Coma Girl / Joe Strummer & The Mescaleros</ul>
-					<ul>15-Sweet Head / David Bowie</ul>
-					<ul>16-Who Are The Mystery Girls? / New York Dolls</ul>
-					<ul>17-Rock And Roll / Velvet Underground</ul>
-					<ul>18-Light & Day (Reach For The Sun) / The Polyphonic Spree</ul>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>			
-</div>
-<div class="row">
-	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0EdK431oU1jCnCmFnwlDCq" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
-</div>
-<div class="row">
-	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!mdckUSCb!UfDdVXeRngaNpb7fiYQYExdqoCXO6QG0HvDV0a4e_04" target="_blank">Earthquake Heart (Download)</a>
-	</div>
-	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#eh">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#eh">Track Listing</button>
 	<!-- Modal -->
 	<div id="eh" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -190,10 +153,58 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!3dE1lKgR!X0ulp7KF-rk4uvMcGTgQLb2l6xPcI6HzYgAmtrvo17E" target="_blank">Love Is A Dog From Hell (Download)</a>
+		<p><b>Savage Parade </b><small>2003</small><br><a href="https://mega.nz/#!WMMSVJJK!YbwxlkytSdzCBxwsBloqXjOnS2vYkcobW_E3jlocQnc" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#liadfh">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#sp">Track Listing</button>
+	<!-- Modal -->
+	<div id="sp" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Savage Parade</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Battle Without Honour Or Humanity / Tomoyasu Hotei</ul>
+					<ul>02-Walk Idiot Walk / The Hives</ul>
+					<ul>03-People Who Died / Jim Carroll Band</ul>
+					<ul>04-Raw Power / Iggy & The Stooges</ul>
+					<ul>05-Decatur St. / The Twilight Singers</ul>
+					<ul>06-So Alive / Ryan Adams</ul>
+					<ul>07-She Don't Use Jelly / The Flaming Lips</ul>
+					<ul>08-Here Comes Your Man / Pixies</ul>
+					<ul>09-Nothing To You / Two Gallants</ul>
+					<ul>10-Portland Oregon / Loretta Lynn</ul>
+					<ul>11-Gin And Juice / The Gourds</ul>
+					<ul>12-Evangeline / Matthew Sweet</ul>
+					<ul>13-Cinnamon / The Long Winters</ul>
+					<ul>14-Coma Girl / Joe Strummer & The Mescaleros</ul>
+					<ul>15-Sweet Head / David Bowie</ul>
+					<ul>16-Who Are The Mystery Girls? / New York Dolls</ul>
+					<ul>17-Rock And Roll / Velvet Underground</ul>
+					<ul>18-Light & Day (Reach For The Sun) / The Polyphonic Spree</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0EdK431oU1jCnCmFnwlDCq" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Love Is A Dog From Hell </b><small>2002</small><br><a href="https://mega.nz/#!3dE1lKgR!X0ulp7KF-rk4uvMcGTgQLb2l6xPcI6HzYgAmtrvo17E" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#liadfh">Track Listing</button>
 	<!-- Modal -->
 	<div id="liadfh" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -240,10 +251,11 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<a href="https://mega.nz/#!zAMwETqS!vZhZkl_8Jz6KnWt5_0A49EaZcX9Cl3_2ljIMB6eKXWo" target="_blank">Feel Good Hit Of The Summer (Download)</a>
+		<p><b>Feel Good Hit Of The Summer </b><small>2001</small><br><a href="https://mega.nz/#!zAMwETqS!vZhZkl_8Jz6KnWt5_0A49EaZcX9Cl3_2ljIMB6eKXWo" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#fghots">Track Listing</button>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#fghots">Track Listing</button>
 	<!-- Modal -->
 	<div id="fghots" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -287,12 +299,13 @@ permalink: /music3/
 </div>
 
 <div class="row">
-	<span class="col-xs-4 col-sm-4 col-md-4"></span>
-	<ul class="pagination">
-	  <li><a href="/music">1</a></li>
-	  <li><a href="/music2">2</a></li>
-	  <li  class="active"><a href="/music3">3</a></li>
-<!-- 	  <li><a href="#">4</a></li>
-	  <li><a href="#">5</a></li>
- -->	</ul>
+<center>
+		<ul class="pagination">
+		  <li><a href="/music">1</a></li>
+		  <li><a href="/music2">2</a></li>
+		  <li  class="active"><a href="/music3">3</a></li>
+	<!-- 	  <li><a href="#">4</a></li>
+		  <li><a href="#">5</a></li>
+	 -->	</ul>
+</center>
 </div>
