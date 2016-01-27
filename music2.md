@@ -5,6 +5,104 @@ permalink: /music2/
 ---
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Rock And Roll Forever -<br>The Whigs Mix </b><small>2012</small><br><a href="https://mega.nz/#!KYFgXIbL!HHSsIeulqYb4W3yTEKIOafHXVlry1vOZQs5n6fMqZEw" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#rarf">Track Listing</button>
+	<!-- Modal -->
+	<div id="rarf" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Rock And Roll Forever</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Can't Hear You Coming</ul>
+					<ul>02-Hot Bed</ul>
+					<ul>03-So Lonely</ul>
+					<ul>04-Rock And Roll Forever</ul>
+					<ul>05-Ok Alright</ul>
+					<ul>06-Kill Me Carolyne</ul>
+					<ul>07-Ours</ul>
+					<ul>08-Someone's Daughter</ul>
+					<ul>09-After Dark</ul>
+					<ul>10-Half The World Away</ul>
+					<ul>11-Gospel</ul>
+					<ul>12-Need You Need You</ul>
+					<ul>13-Violet Furs</ul>
+					<ul>14-Staying Alive</ul>
+					<ul>15-Nothing Is Easy</ul>
+					<ul>16-Couple Of Kids</ul>
+					<ul>17-Say Hello</ul>
+					<ul>18-Already Young</ul>
+					<ul>19-Summer Heat</ul>
+					<ul>20-Right Hand On My Heart</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1w52gj6qEAtCBcFO97CzfN" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>High Horse </b><small>2012</small><br><a href="https://mega.nz/#!aJU0harL!-arqxyvYbcqoGJJZ0V8tnLPilymHwJ3vSW-N5l5Cu7A" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#hh">Track Listing</button>
+	<!-- Modal -->
+	<div id="hh" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">High Horse</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Toward The Waves-I'm Ready / The Twilight Singers</ul>
+					<ul>02-Bye Bye Love / The Cars</ul>
+					<ul>03-Roadhouse Blues / The Doors</ul>
+					<ul>04-Here Comes That Sound Again / The Dirtbombs</ul>
+					<ul>05-New Fang / Them Crooked Vultures</ul>
+					<ul>06-I'm Wrong About Everything / John Wesley Harding</ul>
+					<ul>07-John, Let Me Go / Sondre Lerche</ul>
+					<ul>08-Green Light / Jeremy Toback</ul>
+					<ul>09-Baby Did A Bad Bad Thing / Chris Isaak</ul>
+					<ul>10-Cold Sun / Black Pistol Fire</ul>
+					<ul>11-Big Black Bird / Blitzen Trapper</ul>
+					<ul>12-The Summer / Coconut Records</ul>
+					<ul>13-Usual Suspects / Ha Ha Tonka</ul>
+					<ul>14-Empty House / Delta Spirit</ul>
+					<ul>15-Fox On The Run / Sweet</ul>
+					<ul>16-High Horse / Daniel Johnston</ul>
+					<ul>17-You Got Yr. Cherry Bomb / Spoon</ul>
+					<ul>18-My Doorbell / The White Stripes</ul>
+					<ul>19-Violet Furs / The Whigs</ul>
+					<ul>20-Wiser Time / The Black Crowes</ul>
+					<ul>21-What's A Fella Gotta Do / Eels</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2JT1lkjzdk7UvhE9SBMBKy" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>24 Hour Party People </b><small>2012</small><br><a href="https://mega.nz/#!vA1kBbDT!I8iSkTWrSG-nOwzZTc-rB0XT5lzfGaozc24lKqW83Ps" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
@@ -401,103 +499,6 @@ permalink: /music2/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2rfxXgRM8OlVkITnWTlnsT" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
-</div>
-<div class="row">
-	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Greetings From America's Wang </b><small>2007</small><br><a href="https://mega.nz/#!CBUhARrR!rcbGW_ZkJ5H8aUedeOHlwvhY882rt5RVI2dNDbSQQJE" target="_blank"><i>Download</i></a></p>
-	</div>
-	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<!-- Trigger the modal with a button -->
-	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#gfaw">Track Listing</button>
-	<!-- Modal -->
-	<div id="gfaw" class="modal fade" role="dialog">
-		<div class="modal-dialog">
-	<!-- Modal content-->
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Greetings From America's Wang</h4>
-				</div>
-				<div class="modal-body">
-					<ul>01-The Happy Song / The Aliens</ul>
-					<ul>02-Flagpole Sitta / Harvey Danger</ul>
-					<ul>03-Dracula From Houston / Butthole Surfers</ul>
-					<ul>04-Energy / The Apples In Stereo</ul>
-					<ul>05-Valerie Loves Me / Material Issue</ul>
-					<ul>06-The W.A.N.D. / The Flaming Lips</ul>
-					<ul>07-Steal My Sunshine / Len</ul>
-					<ul>08-'92 Subaru / Fountains Of Wayne</ul>
-					<ul>09-Inside Out / Eve 6</ul>
-					<ul>10-Let The Day Begin / The Call</ul>
-					<ul>11-Fans / Kings Of Leon</ul>
-					<ul>12-Good Time / Leroy</ul>
-					<ul>13-Where You Get Love / Matthew Sweet</ul>
-					<ul>14-Wings / Live</ul>
-					<ul>15-Halloweenhead / Ryan Adams</ul>
-					<ul>16-Love Spreads / The Stone Roses</ul>
-					<ul>17-Baby Fratelli / The Fratellis</ul>
-					<ul>18-There's No Other Way / Blur</ul>
-					<ul>19-99% / The Mooney Suzuki</ul>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>			
-</div>
-<div class="row">
-	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0a7GVbF43yV72vNQWjdoos" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
-</div>
-<div class="row">
-	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Pretend That This Is Fiction </b><small>2006</small><br><a href="https://mega.nz/#!vVkzFAzZ!2NG0wY4Z2gcrI1JQp5KDDfszQ7pN4WwbvOI1Caa7s08" target="_blank"><i>Download</i></a></p>
-	</div>
-	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<!-- Trigger the modal with a button -->
-	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#pttif">Track Listing</button>
-	<!-- Modal -->
-	<div id="pttif" class="modal fade" role="dialog">
-		<div class="modal-dialog">
-	<!-- Modal content-->
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Pretend That This Is Fiction</h4>
-				</div>
-				<div class="modal-body">
-					<ul>01-Florida Sunshine / As Fast As</ul>
-					<ul>02-Pretend That This Is Fiction / The Pink Spiders</ul>
-					<ul>03-You Can't Bring Me Down / The Pillcrushers</ul>
-					<ul>04-Tell Me What You Want / The Black Hollies</ul>
-					<ul>05-Smiley Faces / Gnarls Barkley</ul>
-					<ul>06-Poor Doggie / Eagles Of Death Metal</ul>
-					<ul>07-The W.A.N.D. / The Flaming Lips</ul>
-					<ul>08-Stop, I'm Already Dead / deadboy & the Elephantmen</ul>
-					<ul>09-(It's A) Departure / The Long Winters</ul>
-					<ul>10-Sketches (20 Something Life) / La Rocca</ul>
-					<ul>11-Never Be Lonely / The Feeling</ul>
-					<ul>12-Cinnamon Girl / Matthew Sweet & Susana Hoffs</ul>
-					<ul>13-Pop Song 2006 / Razorlight</ul>
-					<ul>14-Holiday From Real / Jack's Mannequin</ul>
-					<ul>15-Emblems / Matt Pond PA</ul>
-					<ul>16-Hungry Ghost / Echo Helstrom</ul>
-					<ul>17-Overweight / Blue October</ul>
-					<ul>18-Pittsburgh / The Lemonheads</ul>
-					<ul>19-Been So Long / The Little Killers</ul>
-					<ul>20-Something You Ain't Got / Cracker</ul>
-					<ul>21-Level / The Raconteurs</ul>
-					<ul>22-There's Been An Accident / The Twilight Singers</ul>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>			
-</div>
-<div class="row">
-	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A4IN4aJfGSaJVlGohHau1a5" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<center>

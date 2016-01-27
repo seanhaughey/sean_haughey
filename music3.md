@@ -5,6 +5,103 @@ permalink: /music3/
 ---
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Greetings From America's Wang </b><small>2007</small><br><a href="https://mega.nz/#!CBUhARrR!rcbGW_ZkJ5H8aUedeOHlwvhY882rt5RVI2dNDbSQQJE" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#gfaw">Track Listing</button>
+	<!-- Modal -->
+	<div id="gfaw" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Greetings From America's Wang</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-The Happy Song / The Aliens</ul>
+					<ul>02-Flagpole Sitta / Harvey Danger</ul>
+					<ul>03-Dracula From Houston / Butthole Surfers</ul>
+					<ul>04-Energy / The Apples In Stereo</ul>
+					<ul>05-Valerie Loves Me / Material Issue</ul>
+					<ul>06-The W.A.N.D. / The Flaming Lips</ul>
+					<ul>07-Steal My Sunshine / Len</ul>
+					<ul>08-'92 Subaru / Fountains Of Wayne</ul>
+					<ul>09-Inside Out / Eve 6</ul>
+					<ul>10-Let The Day Begin / The Call</ul>
+					<ul>11-Fans / Kings Of Leon</ul>
+					<ul>12-Good Time / Leroy</ul>
+					<ul>13-Where You Get Love / Matthew Sweet</ul>
+					<ul>14-Wings / Live</ul>
+					<ul>15-Halloweenhead / Ryan Adams</ul>
+					<ul>16-Love Spreads / The Stone Roses</ul>
+					<ul>17-Baby Fratelli / The Fratellis</ul>
+					<ul>18-There's No Other Way / Blur</ul>
+					<ul>19-99% / The Mooney Suzuki</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0a7GVbF43yV72vNQWjdoos" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Pretend That This Is Fiction </b><small>2006</small><br><a href="https://mega.nz/#!vVkzFAzZ!2NG0wY4Z2gcrI1JQp5KDDfszQ7pN4WwbvOI1Caa7s08" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#pttif">Track Listing</button>
+	<!-- Modal -->
+	<div id="pttif" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Pretend That This Is Fiction</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Florida Sunshine / As Fast As</ul>
+					<ul>02-Pretend That This Is Fiction / The Pink Spiders</ul>
+					<ul>03-You Can't Bring Me Down / The Pillcrushers</ul>
+					<ul>04-Tell Me What You Want / The Black Hollies</ul>
+					<ul>05-Smiley Faces / Gnarls Barkley</ul>
+					<ul>06-Poor Doggie / Eagles Of Death Metal</ul>
+					<ul>07-The W.A.N.D. / The Flaming Lips</ul>
+					<ul>08-Stop, I'm Already Dead / deadboy & the Elephantmen</ul>
+					<ul>09-(It's A) Departure / The Long Winters</ul>
+					<ul>10-Sketches (20 Something Life) / La Rocca</ul>
+					<ul>11-Never Be Lonely / The Feeling</ul>
+					<ul>12-Cinnamon Girl / Matthew Sweet & Susana Hoffs</ul>
+					<ul>13-Pop Song 2006 / Razorlight</ul>
+					<ul>14-Holiday From Real / Jack's Mannequin</ul>
+					<ul>15-Emblems / Matt Pond PA</ul>
+					<ul>16-Hungry Ghost / Echo Helstrom</ul>
+					<ul>17-Overweight / Blue October</ul>
+					<ul>18-Pittsburgh / The Lemonheads</ul>
+					<ul>19-Been So Long / The Little Killers</ul>
+					<ul>20-Something You Ain't Got / Cracker</ul>
+					<ul>21-Level / The Raconteurs</ul>
+					<ul>22-There's Been An Accident / The Twilight Singers</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A4IN4aJfGSaJVlGohHau1a5" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Lock Up Your Daughters </b><small>2005</small><br><a href="https://mega.nz/#!7MkWmaYZ!dlGtL3I3irQ3Ln9Pa7eEfql_ez2ed2ufRzUpwrw_wCo" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
@@ -150,6 +247,56 @@ permalink: /music3/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6dD6ncqLiCGlOA43kF1RNY" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Seen The Light </b><small>2003</small><br><a href="https://mega.nz/#!CUkmTbBD!-VFBgFPNDQIt1CxG3DgFrGXaPS1op_IEC0wqheyUlqQ" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#stl">Track Listing</button>
+	<!-- Modal -->
+	<div id="stl" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Seen The Light</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Interstate Love Song / Stone Temple Pilots</ul>
+					<ul>02-I Want All Of You / The Verve Pipe</ul>
+					<ul>03-Seen The Light / Supergrass</ul>
+					<ul>04-Nobody's Fault / Phanton Planet</ul>
+					<ul>05-Glorified G / Pearl Jam</ul>
+					<ul>06-The Air Near My Fingers / The White Stripes</ul>
+					<ul>07-Favorite Thing / The Replacements</ul>
+					<ul>08-Earthquake Heart / The Dirtbombs</ul>
+					<ul>09-Walk On By / The Stranglers</ul>
+					<ul>10-The Midnight Creep / Jon Spencer Blues Explosion</ul>
+					<ul>11-Learn To Fly / Foo Fighters</ul>
+					<ul>12-Gonna Make You Love Me / Ryan Adams</ul>
+					<ul>13-Desperately Wanting / Better Than Ezra</ul>
+					<ul>14-If Only / Queens Of The Stone Age</ul>
+					<ul>15-Chump Change / The New Pornographers</ul>
+					<ul>16-Bright Future In Sales / Fountains Of Wayne</ul>
+					<ul>17-Joe's Head / Kings Of Leon</ul>
+					<ul>18-Whatever / Husker Du</ul>
+					<ul>19-Love You Madly / Cake</ul>
+					<ul>20-Fight Test / The Flaming Lips</ul>
+					<ul>21-Yeah / Zwan</ul>
+					<ul>22-Fly Away / Lenny Kravitz</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1r5lAM7sPQg3xyLtFK39pV" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">

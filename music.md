@@ -357,6 +357,54 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Cold Hands (Warm Heart) -<br>Brendan Benson Mix </b><small>2013</small><br><a href="https://mega.nz/#!KMEGXKzZ!9h597i7_ThLnoV0z68oAdWDvvUBitdz9YDNnZLdkSEg" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#chwh">Track Listing</button>
+	<!-- Modal -->
+	<div id="chwh" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Cold Hands (Warm Heart)</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Sittin' Pretty</ul>
+					<ul>02-Eventually</ul>
+					<ul>03-Cold Hands (Warm Heart)</ul>
+					<ul>04-Level</ul>
+					<ul>05-Old Enough</ul>
+					<ul>06-A Whole Lot Better</ul>
+					<ul>07-What Kind Of World</ul>
+					<ul>08-Gonowhere</ul>
+					<ul>09-Spit It Out</ul>
+					<ul>10-Rich Kid Blues</ul>
+					<ul>11-Here In The Deadlights</ul>
+					<ul>12-Good To Me</ul>
+					<ul>13-Eyes On The Horizon</ul>
+					<ul>14-The Switch And The Spur</ul>
+					<ul>15-Light Of Day</ul>
+					<ul>16-Hands</ul>
+					<ul>17-Get It Together</ul>
+					<ul>18-Don't Wanna Talk</ul>
+					<ul>19-Happy Most Of The Time</ul>
+					<ul>20-Borrow</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A4FyvEUJjB17wQhhSmfcuL9" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Bright Future In Sales </b><small>2013</small><br><a href="https://mega.nz/#!2UsHDDAR!TWPuYAyUGErpv2kSEkSOjU2oiDhDgdSzF-wvF5Po9V4" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
@@ -455,55 +503,6 @@ permalink: /music/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6zvohboGQxd6O6dMGiUXwn" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
-</div>
-<div class="row">
-	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>High Horse </b><small>2012</small><br><a href="https://mega.nz/#!aJU0harL!-arqxyvYbcqoGJJZ0V8tnLPilymHwJ3vSW-N5l5Cu7A" target="_blank"><i>Download</i></a></p>
-	</div>
-	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<!-- Trigger the modal with a button -->
-	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#hh">Track Listing</button>
-	<!-- Modal -->
-	<div id="hh" class="modal fade" role="dialog">
-		<div class="modal-dialog">
-	<!-- Modal content-->
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">High Horse</h4>
-				</div>
-				<div class="modal-body">
-					<ul>01-Toward The Waves-I'm Ready / The Twilight Singers</ul>
-					<ul>02-Bye Bye Love / The Cars</ul>
-					<ul>03-Roadhouse Blues / The Doors</ul>
-					<ul>04-Here Comes That Sound Again / The Dirtbombs</ul>
-					<ul>05-New Fang / Them Crooked Vultures</ul>
-					<ul>06-I'm Wrong About Everything / John Wesley Harding</ul>
-					<ul>07-John, Let Me Go / Sondre Lerche</ul>
-					<ul>08-Green Light / Jeremy Toback</ul>
-					<ul>09-Baby Did A Bad Bad Thing / Chris Isaak</ul>
-					<ul>10-Cold Sun / Black Pistol Fire</ul>
-					<ul>11-Big Black Bird / Blitzen Trapper</ul>
-					<ul>12-The Summer / Coconut Records</ul>
-					<ul>13-Usual Suspects / Ha Ha Tonka</ul>
-					<ul>14-Empty House / Delta Spirit</ul>
-					<ul>15-Fox On The Run / Sweet</ul>
-					<ul>16-High Horse / Daniel Johnston</ul>
-					<ul>17-You Got Yr. Cherry Bomb / Spoon</ul>
-					<ul>18-My Doorbell / The White Stripes</ul>
-					<ul>19-Violet Furs / The Whigs</ul>
-					<ul>20-Wiser Time / The Black Crowes</ul>
-					<ul>21-What's A Fella Gotta Do / Eels</ul>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>			
-</div>
-<div class="row">
-	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2JT1lkjzdk7UvhE9SBMBKy" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 	<center>
