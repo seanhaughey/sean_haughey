@@ -24,4 +24,4 @@ Ok, well not really. Sadly it was not nearly that exciting. As a matter of fact 
 
 After about four or five hours, they left saying that there was not a chance that she would be coming back to the hotel. The next morning she ended up turning herself into the police. A pretty anti-climatic ending.
 
-A somewhat inaccurate account of the events can be found <a href="http://www.truecrimereport.com/2011/02/leticia_denova_teen_bank_robbe.php" target="_blank">here.</a>
+A somewhat inaccurate account of the events can be found <a href="http://www.truecrimereport.com/2011/02/leticia_denova_teen_bank_robbe.php" target="_blank">here </a>and <a href="http://www.foxnews.com/us/2011/02/16/texas-high-school-student-arrested-robbing-chase-bank.html" target="_blank">here.</a>
