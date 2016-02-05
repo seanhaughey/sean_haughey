@@ -5,7 +5,7 @@ permalink: /music4/
 ---
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Celebrated Summer </b><small>1998</small><br><a href="https://mega.nz/#!vVcmnL5Q!l5arlfwZ333fJrPQNeRxGGwngEpEuQkJvf2snsYww5o" target="_blank"><i>Download</i></a></p>
+		<p><b>Celebrated Summer </b><small>2000</small><br><a href="https://mega.nz/#!vVcmnL5Q!l5arlfwZ333fJrPQNeRxGGwngEpEuQkJvf2snsYww5o" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -26,12 +26,12 @@ permalink: /music4/
 					<ul>04-If Only / Queens Of The Stone Age</ul>
 					<ul>05-Cowboy / Kid Rock</ul>
 					<ul>06-Stardog Champion / Mother Love Bone</ul>
-					<ul>07-Hipie Jam Song / Faith No More</ul>
+					<ul>07-Hippie Jam Song / Faith No More</ul>
 					<ul>08-Roseablity / Idlewild</ul>
 					<ul>09-Celebrated Summer / Husker Du</ul>
 					<ul>10-River Of Deceit / Mad Season</ul>
 					<ul>11-The Bends / Radiohead</ul>
-					<ul>12-Princess</ul>
+					<ul>12-Princess / Tinman</ul>
 					<ul>13-Take A Picture / Filter</ul>
 					<ul>14-Guitar / Cake</ul>
 					<ul>15-Remote Control / Beastie Boys</ul>
