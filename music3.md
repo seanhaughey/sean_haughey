@@ -398,6 +398,50 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Betting On The Muse </b><small>2002</small><br><a href="https://mega.nz/#!KM9giBaI!-mfwdduMJBNGFnH_4PeVR50E-X3Ok08dTNIiy2fPEwA" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#botm">Track Listing</button>
+	<!-- Modal -->
+	<div id="botm" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Betting On The Muse</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Ordinary World / Duran Duran</ul>
+					<ul>02-What Is Life / George Harrison</ul>
+					<ul>03-You Get What You Give / New Radicals</ul>
+					<ul>04-Can't Stop / Red Hot Chili Peppers</ul>
+					<ul>05-Slide Away / The Verve</ul>
+					<ul>06-Day After Day / Badfinger</ul>
+					<ul>07-California / Phantom Planet</ul>
+					<ul>08-Every Little Thing She Does Is Magic / The Police</ul>
+					<ul>09-Lay Lady Lay / Bob Dylan</ul>
+					<ul>10-I'm Hurting Inside / Bob Marley & The Wailers</ul>
+					<ul>11-Perhaps, Perhaps, Perhaps / Cake</ul>
+					<ul>12-Your Saving Grace / Steve Miller Band</ul>
+					<ul>13-Vicodine / Best Kissers In The World</ul>
+					<ul>14-Cessna / Unified Theory</ul>
+					<ul>15-Awake / Black Rebel Motorcycle Club</ul>
+					<ul>16-Do You Realize?? / The Flaming Lips</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A06usNGFKioqOTdKnKc06wA" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Feel Good Hit Of The Summer </b><small>2001</small><br><a href="https://mega.nz/#!zAMwETqS!vZhZkl_8Jz6KnWt5_0A49EaZcX9Cl3_2ljIMB6eKXWo" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
@@ -444,15 +488,14 @@ permalink: /music3/
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A7BTTIEsRfO8pkOMKTw7VsS" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
-
 <div class="row">
 <center>
 		<ul class="pagination">
 		  <li><a href="/music">1</a></li>
 		  <li><a href="/music2">2</a></li>
 		  <li  class="active"><a href="/music3">3</a></li>
-	<!-- 	  <li><a href="#">4</a></li>
-		  <li><a href="#">5</a></li>
-	 -->	</ul>
+		  <li><a href="/music4">4</a></li>
+<!-- 		  <li><a href="#">5</a></li>
+ -->		</ul>
 </center>
 </div>

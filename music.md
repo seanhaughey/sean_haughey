@@ -510,9 +510,9 @@ permalink: /music/
 			<li class="active"><a href="#">1</a></li>
 			<li><a href="/music2">2</a></li>
 			<li><a href="/music3">3</a></li>
-	<!-- 		<li><a href="#">4</a></li>
-			<li><a href="#">5</a></li>
-	 -->	</ul>
+			<li><a href="/music4">4</a></li>
+<!-- 			<li><a href="#">5</a></li>
+ -->		</ul>
 	 </center>
 </div>
 
