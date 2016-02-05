@@ -5,6 +5,52 @@ permalink: /music4/
 ---
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Celebrated Summer </b><small>1998</small><br><a href="https://mega.nz/#!vVcmnL5Q!l5arlfwZ333fJrPQNeRxGGwngEpEuQkJvf2snsYww5o" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#cs">Track Listing</button>
+	<!-- Modal -->
+	<div id="cs" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Celebrated Summer</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Carry Me / Lean</ul>
+					<ul>02-Low / Cracker</ul>
+					<ul>03-Cup Of Tea / The Verve Pipe</ul>
+					<ul>04-If Only / Queens Of The Stone Age</ul>
+					<ul>05-Cowboy / Kid Rock</ul>
+					<ul>06-Stardog Champion / Mother Love Bone</ul>
+					<ul>07-Hipie Jam Song / Faith No More</ul>
+					<ul>08-Roseablity / Idlewild</ul>
+					<ul>09-Celebrated Summer / Husker Du</ul>
+					<ul>10-River Of Deceit / Mad Season</ul>
+					<ul>11-The Bends / Radiohead</ul>
+					<ul>12-Princess</ul>
+					<ul>13-Take A Picture / Filter</ul>
+					<ul>14-Guitar / Cake</ul>
+					<ul>15-Remote Control / Beastie Boys</ul>
+					<ul>16-Jealousy / James Iha</ul>
+					<ul>17-Only God Knows Why / Kid Rock</ul>
+					<ul>18-Picked Up My Face / Lean</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0G26QdUpsCKL4Q8jMDcLS4" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Wiser Time </b><small>1995</small><br><a href="https://mega.nz/#!eZEkyYrQ!uNFTpaVsc9-w0Z09UtfYG3CvsqZGr1LWEy47pEftNQA" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
@@ -48,7 +94,6 @@ permalink: /music4/
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6NcyJtBYgYCuiSfWtSQIAr" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
-
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Suspicious Minds </b><small>1995</small><br><a href="https://mega.nz/#!jAdUTabT!FMO8qUDLoZdQZzctz9bs8pcPrHlA840vYJDg4V1yNTM" target="_blank"><i>Download</i></a></p>
