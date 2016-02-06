@@ -5,6 +5,145 @@ permalink: /music4/
 ---
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Betting On The Muse </b><small>2002</small><br><a href="https://mega.nz/#!KM9giBaI!-mfwdduMJBNGFnH_4PeVR50E-X3Ok08dTNIiy2fPEwA" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#botm">Track Listing</button>
+	<!-- Modal -->
+	<div id="botm" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Betting On The Muse</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Ordinary World / Duran Duran</ul>
+					<ul>02-What Is Life / George Harrison</ul>
+					<ul>03-You Get What You Give / New Radicals</ul>
+					<ul>04-Can't Stop / Red Hot Chili Peppers</ul>
+					<ul>05-Slide Away / The Verve</ul>
+					<ul>06-Day After Day / Badfinger</ul>
+					<ul>07-California / Phantom Planet</ul>
+					<ul>08-Every Little Thing She Does Is Magic / The Police</ul>
+					<ul>09-Lay Lady Lay / Bob Dylan</ul>
+					<ul>10-I'm Hurting Inside / Bob Marley & The Wailers</ul>
+					<ul>11-Perhaps, Perhaps, Perhaps / Cake</ul>
+					<ul>12-Your Saving Grace / Steve Miller Band</ul>
+					<ul>13-Vicodine / Best Kissers In The World</ul>
+					<ul>14-Cessna / Unified Theory</ul>
+					<ul>15-Awake / Black Rebel Motorcycle Club</ul>
+					<ul>16-Do You Realize?? / The Flaming Lips</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A06usNGFKioqOTdKnKc06wA" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Feel Good Hit Of The Summer </b><small>2001</small><br><a href="https://mega.nz/#!zAMwETqS!vZhZkl_8Jz6KnWt5_0A49EaZcX9Cl3_2ljIMB6eKXWo" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#fghots">Track Listing</button>
+	<!-- Modal -->
+	<div id="fghots" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Feel Good Hit Of The Summer</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Beautiful Day / U2</ul>
+					<ul>02-Wonderful / Adam Ant</ul>
+					<ul>03-Anything, Anything / Buckcherry</ul>
+					<ul>04-Dig In / Lenny Kravitz</ul>
+					<ul>05-People Like You / Live</ul>
+					<ul>06-Feel Good Hit Of The Summer / Queens Of The Stone Age</ul>
+					<ul>07-Untitled / Smashing Pumpkins</ul>
+					<ul>08-Compellor / Wellwater Conspiracy</ul>
+					<ul>09-Summer Of Drugs / Soul Asylum</ul>
+					<ul>10-Recognize / Better Than Ezra</ul>
+					<ul>11-Come On / The Black Crowes</ul>
+					<ul>12-The Distance / Cake</ul>
+					<ul>13-Red Mosquito / Pearl Jam</ul>
+					<ul>14-Ripcord / Radiohead</ul>
+					<ul>15-Hope For Better / Lean</ul>
+					<ul>16-She Sells Sanctuary / The Cult</ul>
+					<ul>17-Pardon Me / Incubus</ul>
+					<ul>18-Colorful / The Verve Pipe</ul>
+					<ul>19-I Got You / Stone Temple Pilots</ul>
+					<ul>20-Reptile / The Church</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A7BTTIEsRfO8pkOMKTw7VsS" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Novocaine For The Soul </b><small>2001</small><br><a href="https://mega.nz/#!WAd0HLia!sj3Mp2NU64ajQ9VSF-d_x_wHNmriDVA5Syu-AJjQntE" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#nfts">Track Listing</button>
+	<!-- Modal -->
+	<div id="nfts" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Novocaine For The Soul</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Dalai Lama / Bill Murray</ul>
+					<ul>02-Short Skirt Long Jacket / Cake</ul>
+					<ul>03-Dancing In The Moonlight / The Smashing Pumpkins</ul>
+					<ul>04-Rattled By The Rush / Pavement</ul>
+					<ul>05-Ooh La La / Faces</ul>
+					<ul>06-Novocaine For The Soul / Eels</ul>
+					<ul>07-Drive / Incubus</ul>
+					<ul>08-Easy / Faith No More</ul>
+					<ul>09-Babylon / David Gray</ul>
+					<ul>10-Beauty / James Iha</ul>
+					<ul>11-Too Cool Queenie / Stone Temple Pilots</ul>
+					<ul>12-Hotel California / Gypsy Kings</ul>
+					<ul>13-I'm Above / Mad Season</ul>
+					<ul>14-Stargazer / Mother Love Bone</ul>
+					<ul>15-Villians / The Verve Pipe</ul>
+					<ul>16-Sober / Tool</ul>
+					<ul>17-Loser / Cracker</ul>
+					<ul>18-Glorious Day / Weezer</ul>
+					<ul>19-Dry The Rain / The Beta Band</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A03R0LTKSqczeYzrC8qOv7J" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Celebrated Summer </b><small>2000</small><br><a href="https://mega.nz/#!vVcmnL5Q!l5arlfwZ333fJrPQNeRxGGwngEpEuQkJvf2snsYww5o" target="_blank"><i>Download</i></a></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>

@@ -344,7 +344,109 @@ permalink: /music3/
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0EdK431oU1jCnCmFnwlDCq" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
-
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>From Blown Speakers </b><small>2003</small><br><a href="https://mega.nz/#!OE81QDYZ!Ugl35fxGD1oJ9eY183s1PEjxPO-J_x4eOO3Losfosbw" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#fbs">Track Listing</button>
+	<!-- Modal -->
+	<div id="fbs" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">From Blown Speakers</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Crystal Village - Pete Yorn</ul>
+					<ul>02-Mind The Gap / The Soundtrack Of Our Lives</ul>
+					<ul>03-Bruised / The Bens</ul>
+					<ul>04-From Blown Speakers / The New Pornographers</ul>
+					<ul>05-Fight Test / The Flaming Lips</ul>
+					<ul>06-You've Got Her In Your Pocket / The White Stripes</ul>
+					<ul>07-Hurt / Johnny Cash</ul>
+					<ul>08-Evening Of The Day / Supergrass</ul>
+					<ul>09-Luv Your Life / Silverchair</ul>
+					<ul>10-I Get The Sweetest Feeling / Jackie Wilson</ul>
+					<ul>11-Diamonds On The Inside / Ben Harper</ul>
+					<ul>12-Flake / Jack Johnson</ul>
+					<ul>13-Always On My Mind / Phantom Planet</ul>
+					<ul>14-Another Love Song / Queens Of The Stone Age</ul>
+					<ul>15-Still I Wait / Radish</ul>
+					<ul>16-With A Girl Like You / The Troggs</ul>
+					<ul>17-Only Words / The Verve Pipe</ul>
+					<ul>18-I'm The Man Who Loves You / Wilco</ul>
+					<ul>19-Here Comes My Baby / Cat Stevens</ul>
+					<ul>20-Vernie / Blind Melon</ul>
+					<ul>21-The Way We Get By / Spoon</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A69vmoCHstLFMQb1vI9Rqaa" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<div class="col-xs-5 col-sm-5 col-md-5">
+		<p><b>Please Kill Me </b><small>2003</small><br><a href="https://mega.nz/#!3EdEjbLD!i4Za7JDN_Ef7tt_k15PbKbjb8an5F0RAM_YIr31Qn68" target="_blank"><i>Download</i></a></p>
+	</div>
+	<div class="col-xs-3 col-sm-3 col-md-3"></div>
+	<!-- Trigger the modal with a button -->
+	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#pkm">Track Listing</button>
+	<!-- Modal -->
+	<div id="pkm" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Please Kill Me</h4>
+				</div>
+				<div class="modal-body">
+					<ul>01-Kick Out The Jams / MC5</ul>
+					<ul>02-See Through Head / The Hives</ul>
+					<ul>03-Complete Control / The Clash</ul>
+					<ul>04-Personality Crisis / New York Dolls</ul>
+					<ul>05-Your Pretty Face Is Going To Hell / Iggy & The Stooges</ul>
+					<ul>06-Too Drunk To Fuck / Dead Kennedys</ul>
+					<ul>07-Add It Up / Violent Femmes</ul>
+					<ul>08-Three Sisters / The Jim Carroll Band</ul>
+					<ul>09-21st Century Fox / The Dirtbombs</ul>
+					<ul>10-Orgasm Addict / Buzzcocks</ul>
+					<ul>11-Bitchin' Camaro / The Dead Milkmen</ul>
+					<ul>12-California Sun / The Dictators</ul>
+					<ul>13-Sonic Reducer / Dead Boys</ul>
+					<ul>14-Somewhere / Husker Du</ul>
+					<ul>15-I Say I Love You / The Mooney Suzuki</ul>
+					<ul>16-Wrecked On You / The Vibrators</ul>
+					<ul>17-My Heart And The Real World / Minutemen</ul>
+					<ul>18-Head Held High / The Velvet Underground</ul>
+					<ul>19-Wasted Life / Stiff Little Fingers</ul>
+					<ul>20-Pretty Vacant / Sex Pistols</ul>
+					<ul>21-Poison Ivy / The Von Bondies</ul>
+					<ul>22-All Women Are Bad / The Cramps</ul>
+					<ul>23-In The City / The Jam</ul>
+					<ul>24-Blank Generation / Richard Hell And The Voidoids</ul>
+					<ul>25-U-Mass / Pixies</ul>
+					<ul>26-The KKK Took My Baby Away / The Ramones</ul>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>			
+</div>
+<div class="row">
+	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2OPDdgQ7FiqncOmA8XlUQc" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Love Is A Dog From Hell </b><small>2002</small><br><a href="https://mega.nz/#!3dE1lKgR!X0ulp7KF-rk4uvMcGTgQLb2l6xPcI6HzYgAmtrvo17E" target="_blank"><i>Download</i></a></p>
@@ -395,98 +497,6 @@ permalink: /music3/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A5BU7wTygPYPBfv54HuvXew" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
-</div>
-<div class="row">
-	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Betting On The Muse </b><small>2002</small><br><a href="https://mega.nz/#!KM9giBaI!-mfwdduMJBNGFnH_4PeVR50E-X3Ok08dTNIiy2fPEwA" target="_blank"><i>Download</i></a></p>
-	</div>
-	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<!-- Trigger the modal with a button -->
-	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#botm">Track Listing</button>
-	<!-- Modal -->
-	<div id="botm" class="modal fade" role="dialog">
-		<div class="modal-dialog">
-	<!-- Modal content-->
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Betting On The Muse</h4>
-				</div>
-				<div class="modal-body">
-					<ul>01-Ordinary World / Duran Duran</ul>
-					<ul>02-What Is Life / George Harrison</ul>
-					<ul>03-You Get What You Give / New Radicals</ul>
-					<ul>04-Can't Stop / Red Hot Chili Peppers</ul>
-					<ul>05-Slide Away / The Verve</ul>
-					<ul>06-Day After Day / Badfinger</ul>
-					<ul>07-California / Phantom Planet</ul>
-					<ul>08-Every Little Thing She Does Is Magic / The Police</ul>
-					<ul>09-Lay Lady Lay / Bob Dylan</ul>
-					<ul>10-I'm Hurting Inside / Bob Marley & The Wailers</ul>
-					<ul>11-Perhaps, Perhaps, Perhaps / Cake</ul>
-					<ul>12-Your Saving Grace / Steve Miller Band</ul>
-					<ul>13-Vicodine / Best Kissers In The World</ul>
-					<ul>14-Cessna / Unified Theory</ul>
-					<ul>15-Awake / Black Rebel Motorcycle Club</ul>
-					<ul>16-Do You Realize?? / The Flaming Lips</ul>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>			
-</div>
-<div class="row">
-	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A06usNGFKioqOTdKnKc06wA" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
-</div>
-<div class="row">
-	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Feel Good Hit Of The Summer </b><small>2001</small><br><a href="https://mega.nz/#!zAMwETqS!vZhZkl_8Jz6KnWt5_0A49EaZcX9Cl3_2ljIMB6eKXWo" target="_blank"><i>Download</i></a></p>
-	</div>
-	<div class="col-xs-3 col-sm-3 col-md-3"></div>
-	<!-- Trigger the modal with a button -->
-	<button type="button" class="btn btn-primary btn-xs tracks" data-toggle="modal" data-target="#fghots">Track Listing</button>
-	<!-- Modal -->
-	<div id="fghots" class="modal fade" role="dialog">
-		<div class="modal-dialog">
-	<!-- Modal content-->
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Feel Good Hit Of The Summer</h4>
-				</div>
-				<div class="modal-body">
-					<ul>01-Beautiful Day / U2</ul>
-					<ul>02-Wonderful / Adam Ant</ul>
-					<ul>03-Anything, Anything / Buckcherry</ul>
-					<ul>04-Dig In / Lenny Kravitz</ul>
-					<ul>05-People Like You / Live</ul>
-					<ul>06-Feel Good Hit Of The Summer / Queens Of The Stone Age</ul>
-					<ul>07-Untitled / Smashing Pumpkins</ul>
-					<ul>08-Compellor / Wellwater Conspiracy</ul>
-					<ul>09-Summer Of Drugs / Soul Asylum</ul>
-					<ul>10-Recognize / Better Than Ezra</ul>
-					<ul>11-Come On / The Black Crowes</ul>
-					<ul>12-The Distance / Cake</ul>
-					<ul>13-Red Mosquito / Pearl Jam</ul>
-					<ul>14-Ripcord / Radiohead</ul>
-					<ul>15-Hope For Better / Lean</ul>
-					<ul>16-She Sells Sanctuary / The Cult</ul>
-					<ul>17-Pardon Me / Incubus</ul>
-					<ul>18-Colorful / The Verve Pipe</ul>
-					<ul>19-I Got You / Stone Temple Pilots</ul>
-					<ul>20-Reptile / The Church</ul>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>			
-</div>
-<div class="row">
-	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A7BTTIEsRfO8pkOMKTw7VsS" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
 <center>
