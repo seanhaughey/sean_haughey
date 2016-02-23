@@ -4,6 +4,17 @@ title: The Haughey Mixes
 permalink: /music/
 ---
 <div class="row">
+	<center>
+		<ul class="pagination">
+			<li class="active"><a href="#">2012-now</a></li>
+			<li><a href="/music2">2008-2012</a></li>
+			<li><a href="/music3">2002-2007</a></li>
+			<li><a href="/music4">1994-2002</a></li>
+<!-- 			<li><a href="#">5</a></li>
+ -->		</ul>
+	 </center>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Living On Luck </b><small>2015</small><br><a href="https://mega.nz/#!bE1UnKTC!xSAbGFQ2ZYmUn-HQgGd0s-JKCzwxMvWCcYcizzaPWeI" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -55,6 +66,9 @@ permalink: /music/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3w5DR2u1P8KklheMKg8QMm" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHU1f9Z7N7-9kU0QIn_NldAK" class="youtube" frameborder="0" allowfullscreen></iframe>	
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>The Pleasures Of The Damned </b><small>2014</small><br><a href="https://mega.nz/#!vc0jVaqb!g595jQC095ZxPiS_qmPUjTK2XBNygeGb1RU-Ju5Q6yY" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -104,6 +118,9 @@ permalink: /music/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1BCxFRypyVK342MLLd7ghB" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVzSC9H5LA_ypj--CUyQctz" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -507,10 +524,10 @@ permalink: /music/
 <div class="row">
 	<center>
 		<ul class="pagination">
-			<li class="active"><a href="#">1</a></li>
-			<li><a href="/music2">2</a></li>
-			<li><a href="/music3">3</a></li>
-			<li><a href="/music4">4</a></li>
+			<li class="active"><a href="#">2012-now</a></li>
+			<li><a href="/music2">2008-2012</a></li>
+			<li><a href="/music3">2002-2007</a></li>
+			<li><a href="/music4">1994-2002</a></li>
 <!-- 			<li><a href="#">5</a></li>
  -->		</ul>
 	 </center>

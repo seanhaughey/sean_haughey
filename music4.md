@@ -4,6 +4,17 @@ title: The Haughey Mixes
 permalink: /music4/
 ---
 <div class="row">
+	<center>
+		<ul class="pagination">
+		  <li><a href="/music">2012-now</a></li>
+		  <li><a href="/music2">2008-2012</a></li>
+		  <li><a href="/music3">2002-2007</a></li>
+		  <li class="active"><a href="/music4">1994-2002</a></li>
+<!-- 		  <li><a href="#">5</a></li>
+ -->		</ul>
+	</center>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Betting On The Muse </b><small>2002</small><br><a href="https://mega.nz/#!KM9giBaI!-mfwdduMJBNGFnH_4PeVR50E-X3Ok08dTNIiy2fPEwA" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -465,13 +476,13 @@ permalink: /music4/
 </div>
 
 <div class="row">
-<center>
+	<center>
 		<ul class="pagination">
-		  <li><a href="/music">1</a></li>
-		  <li><a href="/music2">2</a></li>
-		  <li><a href="/music3">3</a></li>
-		  <li class="active"><a href="/music4">4</a></li>
+		  <li><a href="/music">2012-now</a></li>
+		  <li><a href="/music2">2008-2012</a></li>
+		  <li><a href="/music3">2002-2007</a></li>
+		  <li class="active"><a href="/music4">1994-2002</a></li>
 <!-- 		  <li><a href="#">5</a></li>
  -->		</ul>
-</center>
+	</center>
 </div>

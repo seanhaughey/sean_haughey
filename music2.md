@@ -4,6 +4,17 @@ title: The Haughey Mixes
 permalink: /music2/
 ---
 <div class="row">
+	<center>
+		<ul class="pagination">
+		  <li><a href="/music">2012-now</a></li>
+		  <li class="active"><a href="/music2">2008-2012</a></li>
+		  <li><a href="/music3">2002-2007</a></li>
+		  <li><a href="/music4">1994-2002</a></li>
+<!-- 		  <li><a href="#">5</a></li>
+ -->		</ul>
+	 </center>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Rock And Roll Forever -<br>The Whigs Mix </b><small>2012</small><br><a href="https://mega.nz/#!KYFgXIbL!HHSsIeulqYb4W3yTEKIOafHXVlry1vOZQs5n6fMqZEw" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -503,10 +514,10 @@ permalink: /music2/
 <div class="row">
 	<center>
 		<ul class="pagination">
-		  <li><a href="/music">1</a></li>
-		  <li class="active"><a href="/music2">2</a></li>
-		  <li><a href="/music3">3</a></li>
-		  <li><a href="/music4">4</a></li>
+		  <li><a href="/music">2012-now</a></li>
+		  <li class="active"><a href="/music2">2008-2012</a></li>
+		  <li><a href="/music3">2002-2007</a></li>
+		  <li><a href="/music4">1994-2002</a></li>
 <!-- 		  <li><a href="#">5</a></li>
  -->		</ul>
 	 </center>

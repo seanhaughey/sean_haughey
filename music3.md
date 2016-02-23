@@ -4,6 +4,17 @@ title: The Haughey Mixes
 permalink: /music3/
 ---
 <div class="row">
+	<center>
+		<ul class="pagination">
+		  <li><a href="/music">2012-now</a></li>
+		  <li><a href="/music2">2008-2012</a></li>
+		  <li  class="active"><a href="/music3">2002-2007</a></li>
+		  <li><a href="/music4">1994-2002</a></li>
+<!-- 		  <li><a href="#">5</a></li>
+ -->		</ul>
+	</center>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Greetings From America's Wang </b><small>2007</small><br><a href="https://mega.nz/#!CBUhARrR!rcbGW_ZkJ5H8aUedeOHlwvhY882rt5RVI2dNDbSQQJE" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -499,13 +510,13 @@ permalink: /music3/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A5BU7wTygPYPBfv54HuvXew" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
-<center>
+	<center>
 		<ul class="pagination">
-		  <li><a href="/music">1</a></li>
-		  <li><a href="/music2">2</a></li>
-		  <li  class="active"><a href="/music3">3</a></li>
-		  <li><a href="/music4">4</a></li>
+		  <li><a href="/music">2012-now</a></li>
+		  <li><a href="/music2">2008-2012</a></li>
+		  <li  class="active"><a href="/music3">2002-2007</a></li>
+		  <li><a href="/music4">1994-2002</a></li>
 <!-- 		  <li><a href="#">5</a></li>
  -->		</ul>
-</center>
+	</center>
 </div>
