@@ -174,6 +174,9 @@ permalink: /music/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A5nNpf2q4OP1osvWrBhbJmL" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHWfTBEiPOLrzwusY76ovCZd" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>The Dangerous Summer </b><small>2014</small><br><a href="https://mega.nz/#!KR9jSRKQ!3_6gHiJ6MO9aqmpcBG_-IWVgLWthmIwHp3jI3UkarPA" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -197,7 +200,7 @@ permalink: /music/
 					<ul>05-Lonely Is The Night / Billy Squier</ul>
 					<ul>06-Hungover And Horny / Diamond Rugs</ul>
 					<ul>07-Glee / Honeydogs</ul>
-					<ul>08-Cadilac / T. Rex</ul>
+					<ul>08-Cadillac / T. Rex</ul>
 					<ul>09-Dimestore Heartthrob / Black Pistol Fire</ul>
 					<ul>10-The Wizard / Black Sabbath</ul>
 					<ul>11-God Save Henri / The Floor Is Made Of Lava</ul>
@@ -223,6 +226,9 @@ permalink: /music/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A7wb9ncJ43bI0oEvTEAg6rw" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHWak88b3Jgv8AFwJVmvYxH9" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -274,6 +280,9 @@ permalink: /music/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3tbpXNdXHXydNBDxQkDeWn" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVzvXHCwwp0hZp-yV4xDBxu" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Slouching Toward Nirvana </b><small>2014</small><br><a href="https://mega.nz/#!uYkBXZBC!JBQootRfFJUelo4fPslPV2yCbDS4s5SSk3uanB2QXPg" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -321,6 +330,9 @@ permalink: /music/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0HfCDxCGULZy098IPUKpXX" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVM7cCnr66v9nRXYw7c1UkF" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -373,6 +385,9 @@ permalink: /music/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3DeKeKaFjYOuXnoKiQjcMC" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVmP-NfFmbwqHOK0yXXbEC6" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Cold Hands (Warm Heart) -<br>Brendan Benson Mix </b><small>2013</small><br><a href="https://mega.nz/#!KMEGXKzZ!9h597i7_ThLnoV0z68oAdWDvvUBitdz9YDNnZLdkSEg" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -419,6 +434,9 @@ permalink: /music/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A4FyvEUJjB17wQhhSmfcuL9" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVFg8vppm7MJYUOV7Iz3Hzv" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -471,6 +489,9 @@ permalink: /music/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1dQ1gi5OjGalspUGi9RgRQ" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHWwd7PanjZTf-vYgPR1m-Xi" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Looking For A Sign </b><small>2012</small><br><a href="https://mega.nz/#!bA8UjbDI!UC-9tiraU2A5BJgmAtoyhM2Y07fEglm14aL1wYvx35A" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -520,6 +541,9 @@ permalink: /music/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6zvohboGQxd6O6dMGiUXwn" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHXrWjz6MXqzb2uMq3oH824-" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<center>
