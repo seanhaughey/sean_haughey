@@ -63,6 +63,9 @@ permalink: /music2/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1w52gj6qEAtCBcFO97CzfN" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHWaKhZ3FmUhZEEegwvdeqbC" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>High Horse </b><small>2012</small><br><a href="https://mega.nz/#!aJU0harL!-arqxyvYbcqoGJJZ0V8tnLPilymHwJ3vSW-N5l5Cu7A" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -111,7 +114,9 @@ permalink: /music2/
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2JT1lkjzdk7UvhE9SBMBKy" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
-
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHXvbD3oD0F68jzGAhgA5wT9" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>24 Hour Party People </b><small>2012</small><br><a href="https://mega.nz/#!vA1kBbDT!I8iSkTWrSG-nOwzZTc-rB0XT5lzfGaozc24lKqW83Ps" target="_blank"><i>Download</i></a></p>
