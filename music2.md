@@ -171,6 +171,9 @@ permalink: /music2/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A7BWPeTQahSGrE4Tw21J2PZ" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHWfHViPIPRWd6lpg1YS1q5N" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Burning In Water Drowning In Flame </b><small>2012</small><br><a href="https://mega.nz/#!2Q01iCIT!xc-szqi8cBtAcMvAsiwL8OBJP827z5jbAEXjtGS031o" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -193,7 +196,7 @@ permalink: /music2/
 					<ul>04-Somethin' Hot / Afghan Whigs</ul>
 					<ul>05-A Whole Lot Better / Brendan Benson</ul>
 					<ul>06-A Little Less Conversation / Elvis Presley</ul>
-					<ul>07-Loose 'n' Juicey / The Mooney Suzuki</ul>
+					<ul>07-Loose 'n' Juicy / The Mooney Suzuki</ul>
 					<ul>08-20th Century Boy / T. Rex</ul>
 					<ul>09-Happy Alone / Kings Of Leon</ul>
 					<ul>10-Panic In Detroit / David Bowie</ul>
@@ -219,7 +222,9 @@ permalink: /music2/
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A7v3062IlOxoZSSGo7WZWBs" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
-
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHUopkoFtbML4vtFxfdyq2e3" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Ham On Rye </b><small>2011</small><br><a href="https://mega.nz/#!yR8G2ZQY!NYHTceMtXI22XeCuS3BMjR1cxaz53KVPVpc3Z9VJySE" target="_blank"><i>Download</i></a></p>
@@ -271,6 +276,9 @@ permalink: /music2/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A16AZeKSJMNlha7prQv9Al8" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVMUvyXRxfThJ_yLLL2cHgp" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>The Day Brings </b><small>2010</small><br><a href="https://mega.nz/#!XZsmCT5T!USUZ2v4RF7sv6w4C1NCAdyTwcrz0Gg7f-cAJZyWc3Cc" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -317,6 +325,9 @@ permalink: /music2/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A69kvi980mF7HDjshRDapHa" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHUqtc08wgqJlL5OAj-7uVp-" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -369,6 +380,9 @@ permalink: /music2/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A4VcdpyjCAUik3w3QfhdgbN" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHWMeHKc18n8TLqeLnmYqy9K" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Tales Of Ordinary Madness </b><small>2009</small><br><a href="https://mega.nz/#!bYcR3Q6Q!PCpmipTdYtlcJ62yyn63M2JqsrDqlcg70ALGQxNMDpU" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -397,7 +411,7 @@ permalink: /music2/
 					<ul>10-Walk / Jet</ul>
 					<ul>11-Robbing Banks (Doin' Time) / The Slew</ul>
 					<ul>12-All Hands Against His Own / The Black Keys</ul>
-					<ul>13-All My Living / The Almighty Defenders</ul>
+					<ul>13-All My Loving / The Almighty Defenders</ul>
 					<ul>14-Hold On Me / Radio Moscow</ul>
 					<ul>15-Crystal Ball / King Khan & BBQ Show</ul>
 					<ul>16-Let Me Be / Waines</ul>
@@ -418,6 +432,9 @@ permalink: /music2/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6v8iNAP9b8AMQNw5K1NUX6" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHUTY1ab9M7_XsLCyomjlR1T" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -468,6 +485,9 @@ permalink: /music2/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0yDMQmHgm5fViR1WsmwKZ3" class ="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVXQe9ahrH6FS8gKOZYIKz1" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Can You See Russia From Your House? </b><small>2008</small><br><a href="https://mega.nz/#!bEc2FAQZ!T89agZQXifTGZCBDcVakzaAMG3RKKdNWkntLk1cy8Dw" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -515,6 +535,9 @@ permalink: /music2/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2rfxXgRM8OlVkITnWTlnsT" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHU03rVjsh0uBJxPsyVNjKGe" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<center>
