@@ -62,6 +62,9 @@ permalink: /music3/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0a7GVbF43yV72vNQWjdoos" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+		<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHWO1V75NopdnQsAHpnWnlWj" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Pretend That This Is Fiction </b><small>2006</small><br><a href="https://mega.nz/#!vVkzFAzZ!2NG0wY4Z2gcrI1JQp5KDDfszQ7pN4WwbvOI1Caa7s08" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -110,6 +113,9 @@ permalink: /music3/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A4IN4aJfGSaJVlGohHau1a5" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHUnEpwJ6lE3IcOcJndgbgHB" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
