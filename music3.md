@@ -168,6 +168,9 @@ permalink: /music3/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1X9VIE5ubGsYvvfC6RDb0p" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHWPGh7Q322uu7_VQj0sdRPW" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Blue State Blues </b><small>2004</small><br><a href="https://mega.nz/#!KFkn1BhQ!y_ay1aGHuKHhH9-FAkcV14ag6Ge9JmjZF8KXdAq9tYE" target="_blank"><i>Download</i></a></p>
 	</div>
