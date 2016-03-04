@@ -222,6 +222,9 @@ permalink: /music3/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6X8bR6eDWOdxHRBxLFHiVq" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHV4x_1FnzNb6F2DTgYJqYe7" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Earthquake Heart </b><small>2004</small><br><a href="https://mega.nz/#!mdckUSCb!UfDdVXeRngaNpb7fiYQYExdqoCXO6QG0HvDV0a4e_04" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -267,6 +270,9 @@ permalink: /music3/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6dD6ncqLiCGlOA43kF1RNY" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVDCWHuKe5eTOwD1NR8gdYL" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -319,6 +325,9 @@ permalink: /music3/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1r5lAM7sPQg3xyLtFK39pV" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHXUdGZKZfQJZjXt85PpEaJM" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Savage Parade </b><small>2003</small><br><a href="https://mega.nz/#!WMMSVJJK!YbwxlkytSdzCBxwsBloqXjOnS2vYkcobW_E3jlocQnc" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -363,6 +372,9 @@ permalink: /music3/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0EdK431oU1jCnCmFnwlDCq" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHXiLRZucIwyqHwQa4R6l_sd" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -412,6 +424,9 @@ permalink: /music3/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A69vmoCHstLFMQb1vI9Rqaa" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHX5maKD8etCrkmcKNkkkD2u" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -468,6 +483,9 @@ permalink: /music3/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2OPDdgQ7FiqncOmA8XlUQc" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHWpMhrr88W8gxkbJb2Mglbd" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Love Is A Dog From Hell </b><small>2002</small><br><a href="https://mega.nz/#!3dE1lKgR!X0ulp7KF-rk4uvMcGTgQLb2l6xPcI6HzYgAmtrvo17E" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -499,7 +517,7 @@ permalink: /music3/
 					<ul>13-Barely Legal / The Strokes</ul>
 					<ul>14-Believing Is Art / Spoon</ul>
 					<ul>15-No One Knows / Queens Of The Stone Age</ul>
-					<ul>16-Ego, The Living Planet / Monster Magnet</ul>
+					<ul>16-Silver Future / Monster Magnet</ul>
 					<ul>17-The Hard Way / The Kinks</ul>
 					<ul>18-The Midnight Creep / Jon Spencer Blues Explosion</ul>
 					<ul>19-Search And Destroy / Iggy Pop</ul>
@@ -517,6 +535,9 @@ permalink: /music3/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A5BU7wTygPYPBfv54HuvXew" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHX3iaWBxRzcqUdex7Aw7m2y" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<center>
