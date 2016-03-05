@@ -59,6 +59,9 @@ permalink: /music4/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A06usNGFKioqOTdKnKc06wA" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHXAFHJq74ADwixtPPcXO8oS" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Feel Good Hit Of The Summer </b><small>2001</small><br><a href="https://mega.nz/#!zAMwETqS!vZhZkl_8Jz6KnWt5_0A49EaZcX9Cl3_2ljIMB6eKXWo" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -105,6 +108,9 @@ permalink: /music4/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A7BTTIEsRfO8pkOMKTw7VsS" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHUlu3x-WMCjSKdfLvfkwsDj" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -154,6 +160,9 @@ permalink: /music4/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A03R0LTKSqczeYzrC8qOv7J" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVnOynQFeoM0_tnkdw2xi9F" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Celebrated Summer </b><small>2000</small><br><a href="https://mega.nz/#!vVcmnL5Q!l5arlfwZ333fJrPQNeRxGGwngEpEuQkJvf2snsYww5o" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -200,6 +209,9 @@ permalink: /music4/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A0G26QdUpsCKL4Q8jMDcLS4" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHUb7cGgAGqy-YWyaTM-zNw2" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Wiser Time </b><small>1995</small><br><a href="https://mega.nz/#!eZEkyYrQ!uNFTpaVsc9-w0Z09UtfYG3CvsqZGr1LWEy47pEftNQA" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -243,6 +255,9 @@ permalink: /music4/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A6NcyJtBYgYCuiSfWtSQIAr" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVcv1c0xnf-HcE_w2IXoLS9" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -292,6 +307,9 @@ permalink: /music4/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3ZFFg7KmVfjgsQQ3vU6dzE" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHXZYyJ_qnQYGVqs9EjlUpIN" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>She Gave Good Sunflower </b><small>1995</small><br><a href="https://mega.nz/#!7ANUyTTS!9ubSkRQV6o6GBUm5h9PYny5I3scYvJ5gC8ZkwyAY6EI" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -336,6 +354,9 @@ permalink: /music4/
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1ELYFNgshZS0Dt1KEG7Qqs" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHUe2dOfXy7FbvUW5OPJRFvl" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
@@ -384,6 +405,9 @@ permalink: /music4/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A2iPk9oOpqEifeoo1JTsyG8" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHV5wyqiiow4UpDNiRh7DYI3" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>And The Cradle Will Rock... </b><small>1994</small><br><a href="https://mega.nz/#!TZEk0QKT!Y9fez8BLruBhRn9dPLeBYnyr6PDxWofy9wvl2iSJH3Q" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -430,6 +454,9 @@ permalink: /music4/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A1Tg4CXDqDTHWu3bEQZGBJG" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHW5wWgzsF0iDptjVDBlMOj_" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
 		<p><b>Disarm </b><small>1994</small><br><a href="https://mega.nz/#!2FcDAZDQ!kgL8dbQmjcTIvgM2WIzh_geK3jK4yCCYMpdI2XPbFP0" target="_blank"><i>Download</i></a></p>
 	</div>
@@ -474,7 +501,9 @@ permalink: /music4/
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3e2KCKCkXzWrrahFIOIPON" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
-
+<div class="row">
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHVLPR-FfV8c8PcUXHx3hX4a" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
 <div class="row">
 	<center>
 		<ul class="pagination">
