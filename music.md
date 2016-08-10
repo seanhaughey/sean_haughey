@@ -16,7 +16,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Living On Luck </b><small>2015</small><br><a href="https://mega.nz/#!bE1UnKTC!xSAbGFQ2ZYmUn-HQgGd0s-JKCzwxMvWCcYcizzaPWeI" target="_blank"><i>Download</i></a></p>
+		<p><b>Living On Luck </b><small>2015</small><!-- <br><a href="https://mega.nz/#!bE1UnKTC!xSAbGFQ2ZYmUn-HQgGd0s-JKCzwxMvWCcYcizzaPWeI" target="_blank"><i>Download</i></a> --></p>
 	</div>
 	<span class="col-xs-3 col-sm-3 col-md-3"></span>
 	<!-- Trigger the modal with a button -->

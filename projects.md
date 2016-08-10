@@ -3,6 +3,72 @@ layout: default
 permalink: /projects/
 ---
 <!-- Trigger the modal with a button -->
+<button type="button" class="btn btn-info btn-lg modal-button" data-toggle="modal" data-target="#concerttracker-modal"><img src="/images/concerttracker_screenshot.png" class="project-image img-responsive"></button>
+<!-- Modal -->
+<div id="concerttracker-modal" class="modal fade" role="dialog">
+	<div class="modal-dialog modal-lg">
+<!-- Modal content-->
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">&times;</button>
+				<h4 class="modal-title">Concert Tracker Screenshots</h4>
+			</div>
+			<div class="modal-body">
+				<div id="concerttracker-screenshots" class="carousel slide" data-ride="carousel">
+<!-- Indicators -->
+					<ol class="carousel-indicators">
+					    <li data-target="#concerttracker-screenshots" data-slide-to="0" class="active"></li>
+					    <li data-target="#concerttracker-screenshots" data-slide-to="1"></li>
+					    <li data-target="#concerttracker-screenshots" data-slide-to="2"></li>
+				  	</ol>
+<!-- Wrapper for slides -->
+					<div class="carousel-inner" role="listbox">
+					    <div class="item active">
+				      		<img src="/images/concerttracker_screenshot.png" class="project-image img-responsive">
+					    </div>
+					    <div class="item">
+					      	<img src="/images/concerttracker_screenshot_2.png" class="project-image img-responsive">
+					    </div>
+					    <div class="item">
+					      	<img src="/images/concerttracker_screenshot_3.png" class="project-image img-responsive">
+					    </div>    
+				  	</div>
+<!-- Controls -->
+					<a class="left carousel-control" href="#concerttracker-screenshots" role="button" data-slide="prev">
+						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="right carousel-control" href="#concerttracker-screenshots" role="button" data-slide="next">
+						<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+			</div>
+			<div class="modal-footer">
+				<div class="row">
+					<div class="col-xs-4 col-sm-4 col-md-4">
+						<a href="https://concerttracker.firebaseapp.com/" target="_blank">Go to Concert Tracker</a>
+					</div>
+					<div class="col-xs-4 col-sm-4 col-md-4">
+						<a href="https://github.com/seanhaughey/concerttracker" target="_blank"><i class="fa fa-github-square project-icon"></i></a>
+					</div>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+ <div class="row">
+	<span class="text-spacer col-xs-12 col-sm-12 col-md-12"></span>
+</div>
+<section class="project-desc">
+Concert Tracker is an app for tracking upcoming concerts and archiving the concerts you have attended. I built it using React with the Flux architecture and the Gulp streaming build toolkit. It is built on a Firebase NoSQL database and uses Auth0 for user authentication. I use the Songkick API to get all concert information.
+</section>
+<div class="row">
+	<span class="screenshot-spacer col-xs-12 col-sm-12 col-md-12"></span>
+</div>
+
+<!-- Trigger the modal with a button -->
 <button type="button" class="btn btn-info btn-lg modal-button" data-toggle="modal" data-target="#concertshare-modal"><img src="/images/concertshare_screenshot.png" class="project-image img-responsive"></button>
 <!-- Modal -->
 <div id="concertshare-modal" class="modal fade" role="dialog">
@@ -62,7 +128,7 @@ permalink: /projects/
 	<span class="text-spacer col-xs-12 col-sm-12 col-md-12"></span>
 </div>
 <section class="project-desc">
-ConcertShare was my final project for the General Assembly Web Development Immersive course. It is a concert photo sharing app I built using Meteor. We did not learn Meteor during the course. I wanted to challenge myself by learning a new technology for the final project. 
+ConcertShare was my final project for the General Assembly Web Development Immersive course. It is a concert photo sharing app I built using Meteor. We did not learn Meteor during the course. I wanted to challenge myself by learning a new technology for the final project.
 </section>
 <div class="row">
 	<span class="screenshot-spacer col-xs-12 col-sm-12 col-md-12"></span>
