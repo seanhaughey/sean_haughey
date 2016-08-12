@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: music
 title: The Haughey Mixes
 permalink: /music4/
 ---
@@ -16,7 +16,7 @@ permalink: /music4/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Betting On The Muse </b><small>2002</small><br><a href="https://mega.nz/#!KM9giBaI!-mfwdduMJBNGFnH_4PeVR50E-X3Ok08dTNIiy2fPEwA" target="_blank"><i>Download</i></a></p>
+		<p><b>Betting On The Muse </b><small>2002</small> <!-- <br><a href="https://mega.nz/#!KM9giBaI!-mfwdduMJBNGFnH_4PeVR50E-X3Ok08dTNIiy2fPEwA" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -63,7 +63,7 @@ permalink: /music4/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Feel Good Hit Of The Summer </b><small>2001</small><br><a href="https://mega.nz/#!zAMwETqS!vZhZkl_8Jz6KnWt5_0A49EaZcX9Cl3_2ljIMB6eKXWo" target="_blank"><i>Download</i></a></p>
+		<p><b>Feel Good Hit Of The Summer </b><small>2001</small> <!-- <br><a href="https://mega.nz/#!zAMwETqS!vZhZkl_8Jz6KnWt5_0A49EaZcX9Cl3_2ljIMB6eKXWo" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -114,7 +114,7 @@ permalink: /music4/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Novocaine For The Soul </b><small>2001</small><br><a href="https://mega.nz/#!WAd0HLia!sj3Mp2NU64ajQ9VSF-d_x_wHNmriDVA5Syu-AJjQntE" target="_blank"><i>Download</i></a></p>
+		<p><b>Novocaine For The Soul </b><small>2001</small> <!-- <br><a href="https://mega.nz/#!WAd0HLia!sj3Mp2NU64ajQ9VSF-d_x_wHNmriDVA5Syu-AJjQntE" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -164,7 +164,7 @@ permalink: /music4/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Celebrated Summer </b><small>2000</small><br><a href="https://mega.nz/#!vVcmnL5Q!l5arlfwZ333fJrPQNeRxGGwngEpEuQkJvf2snsYww5o" target="_blank"><i>Download</i></a></p>
+		<p><b>Celebrated Summer </b><small>2000</small> <!-- <br><a href="https://mega.nz/#!vVcmnL5Q!l5arlfwZ333fJrPQNeRxGGwngEpEuQkJvf2snsYww5o" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -213,7 +213,7 @@ permalink: /music4/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Wiser Time </b><small>1995</small><br><a href="https://mega.nz/#!eZEkyYrQ!uNFTpaVsc9-w0Z09UtfYG3CvsqZGr1LWEy47pEftNQA" target="_blank"><i>Download</i></a></p>
+		<p><b>Wiser Time </b><small>1995</small> <!-- <br><a href="https://mega.nz/#!eZEkyYrQ!uNFTpaVsc9-w0Z09UtfYG3CvsqZGr1LWEy47pEftNQA" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -261,7 +261,7 @@ permalink: /music4/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Suspicious Minds </b><small>1995</small><br><a href="https://mega.nz/#!jAdUTabT!FMO8qUDLoZdQZzctz9bs8pcPrHlA840vYJDg4V1yNTM" target="_blank"><i>Download</i></a></p>
+		<p><b>Suspicious Minds </b><small>1995</small> <!-- <br><a href="https://mega.nz/#!jAdUTabT!FMO8qUDLoZdQZzctz9bs8pcPrHlA840vYJDg4V1yNTM" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -311,7 +311,7 @@ permalink: /music4/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>She Gave Good Sunflower </b><small>1995</small><br><a href="https://mega.nz/#!7ANUyTTS!9ubSkRQV6o6GBUm5h9PYny5I3scYvJ5gC8ZkwyAY6EI" target="_blank"><i>Download</i></a></p>
+		<p><b>She Gave Good Sunflower </b><small>1995</small> <!-- <br><a href="https://mega.nz/#!7ANUyTTS!9ubSkRQV6o6GBUm5h9PYny5I3scYvJ5gC8ZkwyAY6EI" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -360,7 +360,7 @@ permalink: /music4/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Sample In A Jar </b><small>1995</small><br><a href="https://mega.nz/#!Odl0CDBA!r345kQy04OG8WJhTHfCuYM3cbzHrrVCOeQk4rYLem4U" target="_blank"><i>Download</i></a></p>
+		<p><b>Sample In A Jar </b><small>1995</small> <!-- <br><a href="https://mega.nz/#!Odl0CDBA!r345kQy04OG8WJhTHfCuYM3cbzHrrVCOeQk4rYLem4U" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -409,7 +409,7 @@ permalink: /music4/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>And The Cradle Will Rock... </b><small>1994</small><br><a href="https://mega.nz/#!TZEk0QKT!Y9fez8BLruBhRn9dPLeBYnyr6PDxWofy9wvl2iSJH3Q" target="_blank"><i>Download</i></a></p>
+		<p><b>And The Cradle Will Rock... </b><small>1994</small> <!-- <br><a href="https://mega.nz/#!TZEk0QKT!Y9fez8BLruBhRn9dPLeBYnyr6PDxWofy9wvl2iSJH3Q" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -458,7 +458,7 @@ permalink: /music4/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Disarm </b><small>1994</small><br><a href="https://mega.nz/#!2FcDAZDQ!kgL8dbQmjcTIvgM2WIzh_geK3jK4yCCYMpdI2XPbFP0" target="_blank"><i>Download</i></a></p>
+		<p><b>Disarm </b><small>1994</small> <!-- <br><a href="https://mega.nz/#!2FcDAZDQ!kgL8dbQmjcTIvgM2WIzh_geK3jK4yCCYMpdI2XPbFP0" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->

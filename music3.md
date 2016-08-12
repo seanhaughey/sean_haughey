@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: music
 title: The Haughey Mixes
 permalink: /music3/
 ---
@@ -16,7 +16,7 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Greetings From America's Wang </b><small>2007</small><br><a href="https://mega.nz/#!CBUhARrR!rcbGW_ZkJ5H8aUedeOHlwvhY882rt5RVI2dNDbSQQJE" target="_blank"><i>Download</i></a></p>
+		<p><b>Greetings From America's Wang </b><small>2007</small> <!-- <br><a href="https://mega.nz/#!CBUhARrR!rcbGW_ZkJ5H8aUedeOHlwvhY882rt5RVI2dNDbSQQJE" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -66,7 +66,7 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Pretend That This Is Fiction </b><small>2006</small><br><a href="https://mega.nz/#!vVkzFAzZ!2NG0wY4Z2gcrI1JQp5KDDfszQ7pN4WwbvOI1Caa7s08" target="_blank"><i>Download</i></a></p>
+		<p><b>Pretend That This Is Fiction </b><small>2006</small> <!-- <br><a href="https://mega.nz/#!vVkzFAzZ!2NG0wY4Z2gcrI1JQp5KDDfszQ7pN4WwbvOI1Caa7s08" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -119,7 +119,7 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Lock Up Your Daughters </b><small>2005</small><br><a href="https://mega.nz/#!7MkWmaYZ!dlGtL3I3irQ3Ln9Pa7eEfql_ez2ed2ufRzUpwrw_wCo" target="_blank"><i>Download</i></a></p>
+		<p><b>Lock Up Your Daughters </b><small>2005</small> <!-- <br><a href="https://mega.nz/#!7MkWmaYZ!dlGtL3I3irQ3Ln9Pa7eEfql_ez2ed2ufRzUpwrw_wCo" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -172,7 +172,7 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Blue State Blues </b><small>2004</small><br><a href="https://mega.nz/#!KFkn1BhQ!y_ay1aGHuKHhH9-FAkcV14ag6Ge9JmjZF8KXdAq9tYE" target="_blank"><i>Download</i></a></p>
+		<p><b>Blue State Blues </b><small>2004</small> <!-- <br><a href="https://mega.nz/#!KFkn1BhQ!y_ay1aGHuKHhH9-FAkcV14ag6Ge9JmjZF8KXdAq9tYE" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -226,7 +226,7 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Earthquake Heart </b><small>2004</small><br><a href="https://mega.nz/#!mdckUSCb!UfDdVXeRngaNpb7fiYQYExdqoCXO6QG0HvDV0a4e_04" target="_blank"><i>Download</i></a></p>
+		<p><b>Earthquake Heart </b><small>2004</small> <!-- <br><a href="https://mega.nz/#!mdckUSCb!UfDdVXeRngaNpb7fiYQYExdqoCXO6QG0HvDV0a4e_04" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -276,7 +276,7 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Seen The Light </b><small>2003</small><br><a href="https://mega.nz/#!CUkmTbBD!-VFBgFPNDQIt1CxG3DgFrGXaPS1op_IEC0wqheyUlqQ" target="_blank"><i>Download</i></a></p>
+		<p><b>Seen The Light </b><small>2003</small> <!-- <br><a href="https://mega.nz/#!CUkmTbBD!-VFBgFPNDQIt1CxG3DgFrGXaPS1op_IEC0wqheyUlqQ" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -329,7 +329,7 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Savage Parade </b><small>2003</small><br><a href="https://mega.nz/#!WMMSVJJK!YbwxlkytSdzCBxwsBloqXjOnS2vYkcobW_E3jlocQnc" target="_blank"><i>Download</i></a></p>
+		<p><b>Savage Parade </b><small>2003</small> <!-- <br><a href="https://mega.nz/#!WMMSVJJK!YbwxlkytSdzCBxwsBloqXjOnS2vYkcobW_E3jlocQnc" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -378,7 +378,7 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>From Blown Speakers </b><small>2003</small><br><a href="https://mega.nz/#!OE81QDYZ!Ugl35fxGD1oJ9eY183s1PEjxPO-J_x4eOO3Losfosbw" target="_blank"><i>Download</i></a></p>
+		<p><b>From Blown Speakers </b><small>2003</small> <!-- <br><a href="https://mega.nz/#!OE81QDYZ!Ugl35fxGD1oJ9eY183s1PEjxPO-J_x4eOO3Losfosbw" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -430,7 +430,7 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Please Kill Me </b><small>2003</small><br><a href="https://mega.nz/#!3EdEjbLD!i4Za7JDN_Ef7tt_k15PbKbjb8an5F0RAM_YIr31Qn68" target="_blank"><i>Download</i></a></p>
+		<p><b>Please Kill Me </b><small>2003</small> <!-- <br><a href="https://mega.nz/#!3EdEjbLD!i4Za7JDN_Ef7tt_k15PbKbjb8an5F0RAM_YIr31Qn68" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -487,7 +487,7 @@ permalink: /music3/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Love Is A Dog From Hell </b><small>2002</small><br><a href="https://mega.nz/#!3dE1lKgR!X0ulp7KF-rk4uvMcGTgQLb2l6xPcI6HzYgAmtrvo17E" target="_blank"><i>Download</i></a></p>
+		<p><b>Love Is A Dog From Hell </b><small>2002</small> <!-- <br><a href="https://mega.nz/#!3dE1lKgR!X0ulp7KF-rk4uvMcGTgQLb2l6xPcI6HzYgAmtrvo17E" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: music
 title: The Haughey Mixes
 permalink: /music/
 ---
@@ -66,11 +66,11 @@ permalink: /music/
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A3w5DR2u1P8KklheMKg8QMm" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
 </div>
 <div class="row">
-	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHU1f9Z7N7-9kU0QIn_NldAK" class="youtube" frameborder="0" allowfullscreen></iframe>	
+	<iframe width="250" height="80" src="https://www.youtube.com/embed/videoseries?list=PLLM2Fo1YaxHU1f9Z7N7-9kU0QIn_NldAK" class="youtube" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>The Pleasures Of The Damned </b><small>2014</small><br><a href="https://mega.nz/#!vc0jVaqb!g595jQC095ZxPiS_qmPUjTK2XBNygeGb1RU-Ju5Q6yY" target="_blank"><i>Download</i></a></p>
+		<p><b>The Pleasures Of The Damned </b><small>2014</small><!-- <br><a href="https://mega.nz/#!vc0jVaqb!g595jQC095ZxPiS_qmPUjTK2XBNygeGb1RU-Ju5Q6yY" target="_blank"><i>Download</i></a> --></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -124,7 +124,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Sick Of Myself </b><small>2014</small><br><a href="https://mega.nz/#!OZNwxR4C!LNWZlcllzR-AkgehzqyiLJ8SfR5cEIeRI8BXJzTKlAI" target="_blank"><i>Download</i></a></p>
+		<p><b>Sick Of Myself </b><small>2014</small><!-- <br><a href="https://mega.nz/#!OZNwxR4C!LNWZlcllzR-AkgehzqyiLJ8SfR5cEIeRI8BXJzTKlAI" target="_blank"><i>Download</i></a> --></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -168,7 +168,7 @@ permalink: /music/
 				</div>
 			</div>
 		</div>
-	</div>	
+	</div>
 </div>
 <div class="row">
 	<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A123502883%3Aplaylist%3A5nNpf2q4OP1osvWrBhbJmL" class="playlist" width="250" height="100" frameborder="0" allowtransparency="true"></iframe>
@@ -178,7 +178,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>The Dangerous Summer </b><small>2014</small><br><a href="https://mega.nz/#!KR9jSRKQ!3_6gHiJ6MO9aqmpcBG_-IWVgLWthmIwHp3jI3UkarPA" target="_blank"><i>Download</i></a></p>
+		<p><b>The Dangerous Summer </b><small>2014</small><!-- <br><a href="https://mega.nz/#!KR9jSRKQ!3_6gHiJ6MO9aqmpcBG_-IWVgLWthmIwHp3jI3UkarPA" target="_blank"><i>Download</i></a> --></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -232,7 +232,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Horses Don't Bet On People </b><small>2014</small><br><a href="https://mega.nz/#!vNsGRYqR!Yjg_hPHTF3Q68w6luXQER8TbBqM2EJdKtMxcijL2usA" target="_blank"><i>Download</i></a></p>
+		<p><b>Horses Don't Bet On People </b><small>2014</small> <!-- <br><a href="https://mega.nz/#!vNsGRYqR!Yjg_hPHTF3Q68w6luXQER8TbBqM2EJdKtMxcijL2usA" target="_blank"><i>Download</i></a> --></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -284,7 +284,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Slouching Toward Nirvana </b><small>2014</small><br><a href="https://mega.nz/#!uYkBXZBC!JBQootRfFJUelo4fPslPV2yCbDS4s5SSk3uanB2QXPg" target="_blank"><i>Download</i></a></p>
+		<p><b>Slouching Toward Nirvana </b><small>2014</small> <!-- <br><a href="https://mega.nz/#!uYkBXZBC!JBQootRfFJUelo4fPslPV2yCbDS4s5SSk3uanB2QXPg" target="_blank"><i>Download</i></a> --></p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -336,7 +336,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Sifting Through The Madness </b><small>2014</small><br><a href="https://mega.nz/#!qIlllBiK!MLji9e4r7v4TC54-0Z3CKBql4TexFP9H8_UWqCyOxsQ" target="_blank"><i>Download</i></a></p>
+		<p><b>Sifting Through The Madness </b><small>2014</small> <!-- <br><a href="https://mega.nz/#!qIlllBiK!MLji9e4r7v4TC54-0Z3CKBql4TexFP9H8_UWqCyOxsQ" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -389,7 +389,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Cold Hands (Warm Heart) -<br>Brendan Benson Mix </b><small>2013</small><br><a href="https://mega.nz/#!KMEGXKzZ!9h597i7_ThLnoV0z68oAdWDvvUBitdz9YDNnZLdkSEg" target="_blank"><i>Download</i></a></p>
+		<p><b>Cold Hands (Warm Heart) -<br>Brendan Benson Mix </b><small>2013</small> <!-- <br><a href="https://mega.nz/#!KMEGXKzZ!9h597i7_ThLnoV0z68oAdWDvvUBitdz9YDNnZLdkSEg" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -440,7 +440,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Bright Future In Sales </b><small>2013</small><br><a href="https://mega.nz/#!2UsHDDAR!TWPuYAyUGErpv2kSEkSOjU2oiDhDgdSzF-wvF5Po9V4" target="_blank"><i>Download</i></a></p>
+		<p><b>Bright Future In Sales </b><small>2013</small> <!--<br><a href="https://mega.nz/#!2UsHDDAR!TWPuYAyUGErpv2kSEkSOjU2oiDhDgdSzF-wvF5Po9V4" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -493,7 +493,7 @@ permalink: /music/
 </div>
 <div class="row">
 	<div class="col-xs-5 col-sm-5 col-md-5">
-		<p><b>Looking For A Sign </b><small>2012</small><br><a href="https://mega.nz/#!bA8UjbDI!UC-9tiraU2A5BJgmAtoyhM2Y07fEglm14aL1wYvx35A" target="_blank"><i>Download</i></a></p>
+		<p><b>Looking For A Sign </b><small>2012</small> <!-- <br><a href="https://mega.nz/#!bA8UjbDI!UC-9tiraU2A5BJgmAtoyhM2Y07fEglm14aL1wYvx35A" target="_blank"><i>Download</i></a> --> </p>
 	</div>
 	<div class="col-xs-3 col-sm-3 col-md-3"></div>
 	<!-- Trigger the modal with a button -->
@@ -556,9 +556,3 @@ permalink: /music/
  -->		</ul>
 	 </center>
 </div>
-
-
-
-
-
-
